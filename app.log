@@ -1,0 +1,1932 @@
+2025-03-04T11:02:30.973Z [INFO]: Server is running on port 3000
+2025-03-04T11:02:31.005Z [INFO]: MongoDB connected successfully
+2025-03-04T11:03:54.070Z [INFO]: Server is running on port 3000
+2025-03-04T11:03:54.120Z [INFO]: MongoDB connected successfully
+2025-03-04T11:04:28.416Z [INFO]: Server is running on port 3000
+2025-03-04T11:04:28.450Z [INFO]: MongoDB connected successfully
+2025-03-04T11:04:44.160Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:04:44.192Z [INFO]: Server is running on port 3000
+2025-03-04T11:04:44.211Z [INFO]: MongoDB connected successfully
+2025-03-04T11:05:46.153Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:05:46.173Z [INFO]: Server is running on port 3000
+2025-03-04T11:05:46.195Z [INFO]: MongoDB connected successfully
+2025-03-04T11:06:51.058Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:06:51.078Z [INFO]: Server is running on port 3000
+2025-03-04T11:06:51.108Z [INFO]: MongoDB connected successfully
+2025-03-04T11:07:09.507Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:07:09.542Z [INFO]: Server is running on port 3000
+2025-03-04T11:07:09.570Z [INFO]: MongoDB connected successfully
+2025-03-04T11:10:06.896Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:10:06.925Z [INFO]: Server is running on port 3000
+2025-03-04T11:10:06.953Z [INFO]: MongoDB connected successfully
+2025-03-04T11:10:16.996Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:10:17.017Z [INFO]: Server is running on port 3000
+2025-03-04T11:10:17.039Z [INFO]: MongoDB connected successfully
+2025-03-04T11:10:23.620Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:10:23.645Z [INFO]: Server is running on port 3000
+2025-03-04T11:10:23.667Z [INFO]: MongoDB connected successfully
+2025-03-04T11:10:47.931Z [INFO]: MONGO_URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:10:47.935Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:10:47.957Z [INFO]: Server is running on port 3000
+2025-03-04T11:10:47.979Z [INFO]: MongoDB connected successfully
+2025-03-04T11:12:04.657Z [INFO]: MONGO_URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:12:04.662Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:12:04.693Z [INFO]: Server is running on port 3000
+2025-03-04T11:12:04.719Z [INFO]: MongoDB connected successfully
+2025-03-04T11:14:30.795Z [INFO]: MONGO_URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:14:30.800Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:14:30.821Z [INFO]: Server is running on port 3000
+2025-03-04T11:14:30.844Z [INFO]: MongoDB connected successfully
+2025-03-04T11:14:50.115Z [INFO]: MONGO_URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:14:50.120Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:14:50.145Z [INFO]: Server is running on port 3000
+2025-03-04T11:14:50.170Z [INFO]: MongoDB connected successfully
+2025-03-04T11:15:55.905Z [INFO]: MONGO_URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:15:55.911Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:15:55.960Z [INFO]: Server is running on port 3000
+2025-03-04T11:15:56.011Z [INFO]: MongoDB connected successfully
+2025-03-04T11:17:30.663Z [INFO]: MONGO_URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:17:30.667Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:17:30.689Z [INFO]: Server is running on port 3000
+2025-03-04T11:17:30.709Z [INFO]: MongoDB connected successfully
+2025-03-04T11:17:46.083Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:17:46.112Z [INFO]: Server is running on port 3000
+2025-03-04T11:17:46.145Z [INFO]: MongoDB connected successfully
+2025-03-04T11:19:59.335Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:19:59.361Z [INFO]: Server is running on port 3000
+2025-03-04T11:19:59.391Z [INFO]: MongoDB connected successfully
+2025-03-04T11:20:20.677Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:20:20.705Z [INFO]: Server is running on port 3000
+2025-03-04T11:20:20.728Z [INFO]: MongoDB connected successfully
+2025-03-04T11:21:58.109Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:21:58.156Z [INFO]: Server is running on port 3000
+2025-03-04T11:21:58.180Z [INFO]: MongoDB connected successfully
+2025-03-04T11:22:05.879Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:22:05.931Z [INFO]: Server is running on port 3000
+2025-03-04T11:22:05.966Z [INFO]: MongoDB connected successfully
+2025-03-04T11:23:22.342Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:23:22.377Z [INFO]: Server is running on port 3000
+2025-03-04T11:23:22.390Z [INFO]: MongoDB connected successfully
+2025-03-04T11:40:13.092Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:40:13.129Z [INFO]: Server is running on port 3000
+2025-03-04T11:40:13.158Z [INFO]: MongoDB connected successfully
+2025-03-04T11:43:36.279Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:43:36.306Z [INFO]: Server is running on port 3000
+2025-03-04T11:43:36.324Z [INFO]: MongoDB connected successfully
+2025-03-04T11:43:41.564Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:43:41.590Z [INFO]: Server is running on port 3000
+2025-03-04T11:43:41.604Z [INFO]: MongoDB connected successfully
+2025-03-04T11:43:43.531Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:43:43.560Z [INFO]: Server is running on port 3000
+2025-03-04T11:43:43.574Z [INFO]: MongoDB connected successfully
+2025-03-04T11:43:48.495Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:43:48.519Z [INFO]: Server is running on port 3000
+2025-03-04T11:43:48.531Z [INFO]: MongoDB connected successfully
+2025-03-04T11:43:49.253Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:43:49.285Z [INFO]: Server is running on port 3000
+2025-03-04T11:43:49.301Z [INFO]: MongoDB connected successfully
+2025-03-04T11:45:00.694Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:45:00.731Z [INFO]: Server is running on port 3000
+2025-03-04T11:45:00.745Z [INFO]: MongoDB connected successfully
+2025-03-04T11:45:07.430Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:45:07.458Z [INFO]: Server is running on port 3000
+2025-03-04T11:45:07.470Z [INFO]: MongoDB connected successfully
+2025-03-04T11:45:10.762Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:45:10.809Z [INFO]: Server is running on port 3000
+2025-03-04T11:45:10.821Z [INFO]: MongoDB connected successfully
+2025-03-04T11:45:34.354Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:45:34.391Z [INFO]: Server is running on port 3000
+2025-03-04T11:45:34.404Z [INFO]: MongoDB connected successfully
+2025-03-04T11:48:56.300Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:48:56.331Z [INFO]: Server is running on port 3000
+2025-03-04T11:48:56.352Z [INFO]: MongoDB connected successfully
+2025-03-04T11:52:13.790Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:52:13.830Z [INFO]: Server is running on port 3000
+2025-03-04T11:52:13.847Z [INFO]: MongoDB connected successfully
+2025-03-04T11:52:43.829Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:52:43.855Z [INFO]: Server is running on port 3000
+2025-03-04T11:52:43.868Z [INFO]: MongoDB connected successfully
+2025-03-04T11:52:45.760Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:52:45.802Z [INFO]: Server is running on port 3000
+2025-03-04T11:52:45.816Z [INFO]: MongoDB connected successfully
+2025-03-04T11:55:25.345Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:55:25.389Z [INFO]: Server is running on port 3000
+2025-03-04T11:55:25.412Z [INFO]: MongoDB connected successfully
+2025-03-04T11:59:59.090Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T11:59:59.121Z [INFO]: Server is running on port 3000
+2025-03-04T11:59:59.137Z [INFO]: MongoDB connected successfully
+2025-03-04T12:00:11.788Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T12:00:11.817Z [INFO]: Server is running on port 3000
+2025-03-04T12:00:11.832Z [INFO]: MongoDB connected successfully
+2025-03-04T12:02:56.507Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T12:02:56.531Z [INFO]: Server is running on port 3000
+2025-03-04T12:02:56.542Z [INFO]: MongoDB connected successfully
+2025-03-04T12:05:50.490Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T12:05:50.516Z [INFO]: Server is running on port 3000
+2025-03-04T12:05:50.529Z [INFO]: MongoDB connected successfully
+2025-03-04T12:09:56.180Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T12:09:56.206Z [INFO]: Server is running on port 8000
+2025-03-04T12:09:56.217Z [INFO]: MongoDB connected successfully
+2025-03-04T12:10:33.084Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T12:10:33.120Z [INFO]: Server is running on port 8000
+2025-03-04T12:10:33.141Z [INFO]: MongoDB connected successfully
+2025-03-04T12:16:59.232Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T12:16:59.260Z [INFO]: Server is running on port 8000
+2025-03-04T12:16:59.274Z [INFO]: MongoDB connected successfully
+2025-03-04T12:18:13.363Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T12:18:13.416Z [INFO]: Server is running on port 8000
+2025-03-04T12:18:13.432Z [INFO]: MongoDB connected successfully
+2025-03-04T12:18:50.344Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T12:18:50.380Z [INFO]: Server is running on port 8000
+2025-03-04T12:18:50.401Z [INFO]: MongoDB connected successfully
+2025-03-04T12:20:09.257Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T12:20:09.290Z [INFO]: Server is running on port 8000
+2025-03-04T12:20:09.314Z [INFO]: MongoDB connected successfully
+2025-03-04T12:20:53.482Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T12:20:53.515Z [INFO]: Server is running on port 8000
+2025-03-04T12:20:53.546Z [INFO]: MongoDB connected successfully
+2025-03-04T13:41:17.210Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T13:41:17.253Z [INFO]: Server is running on port 8000
+2025-03-04T13:41:17.279Z [INFO]: MongoDB connected successfully
+2025-03-04T13:41:26.043Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T13:41:26.076Z [INFO]: Server is running on port 8000
+2025-03-04T13:41:26.090Z [INFO]: MongoDB connected successfully
+2025-03-04T13:41:30.904Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T13:41:30.934Z [INFO]: Server is running on port 8000
+2025-03-04T13:41:30.949Z [INFO]: MongoDB connected successfully
+2025-03-04T13:45:08.194Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T13:45:08.224Z [INFO]: Server is running on port 8000
+2025-03-04T13:45:08.240Z [INFO]: MongoDB connected successfully
+2025-03-04T13:55:55.420Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T13:55:55.447Z [INFO]: Server is running on port 8000
+2025-03-04T13:55:55.458Z [INFO]: MongoDB connected successfully
+2025-03-04T13:56:02.628Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T13:56:02.660Z [INFO]: Server is running on port 8000
+2025-03-04T13:56:02.670Z [INFO]: MongoDB connected successfully
+2025-03-04T13:57:02.604Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T13:57:02.630Z [INFO]: Server is running on port 8000
+2025-03-04T13:57:02.641Z [INFO]: MongoDB connected successfully
+2025-03-04T13:57:34.527Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T13:57:34.553Z [INFO]: Server is running on port 8000
+2025-03-04T13:57:34.564Z [INFO]: MongoDB connected successfully
+2025-03-04T13:57:37.202Z [INFO]: User created: 67c706d1011cc127d3b94d90
+2025-03-04T13:58:01.789Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T13:58:01.816Z [INFO]: Server is running on port 8000
+2025-03-04T13:58:01.828Z [INFO]: MongoDB connected successfully
+2025-03-04T13:58:28.939Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T13:58:28.962Z [INFO]: Server is running on port 8000
+2025-03-04T13:58:28.973Z [INFO]: MongoDB connected successfully
+2025-03-04T14:00:28.407Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T14:00:28.434Z [INFO]: Server is running on port 8000
+2025-03-04T14:00:28.449Z [INFO]: MongoDB connected successfully
+2025-03-04T14:00:32.833Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T14:00:32.862Z [INFO]: Server is running on port 8000
+2025-03-04T14:00:32.877Z [INFO]: MongoDB connected successfully
+2025-03-04T14:00:42.304Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T14:00:42.334Z [INFO]: Server is running on port 8000
+2025-03-04T14:00:42.347Z [INFO]: MongoDB connected successfully
+2025-03-04T14:06:48.759Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T14:06:48.802Z [INFO]: Server is running on port 8000
+2025-03-04T14:06:48.818Z [INFO]: MongoDB connected successfully
+2025-03-04T14:06:49.863Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T14:06:49.892Z [INFO]: Server is running on port 8000
+2025-03-04T14:06:49.907Z [INFO]: MongoDB connected successfully
+2025-03-04T14:20:51.155Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T14:20:51.181Z [INFO]: Server is running on port 8000
+2025-03-04T14:20:51.198Z [INFO]: MongoDB connected successfully
+2025-03-04T14:20:53.129Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T14:20:53.160Z [INFO]: Server is running on port 8000
+2025-03-04T14:20:53.172Z [INFO]: MongoDB connected successfully
+2025-03-04T14:25:36.802Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T14:25:36.832Z [INFO]: Server is running on port 8000
+2025-03-04T14:25:36.847Z [INFO]: MongoDB connected successfully
+2025-03-04T14:25:38.633Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T14:25:38.670Z [INFO]: Server is running on port 8000
+2025-03-04T14:25:38.691Z [INFO]: MongoDB connected successfully
+2025-03-04T14:25:45.245Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T14:25:45.279Z [INFO]: Server is running on port 8000
+2025-03-04T14:25:45.298Z [INFO]: MongoDB connected successfully
+2025-03-04T14:26:02.807Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T14:26:02.836Z [INFO]: Server is running on port 8000
+2025-03-04T14:26:02.851Z [INFO]: MongoDB connected successfully
+2025-03-04T16:46:44.209Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T16:46:44.237Z [INFO]: Server is running on port 8000
+2025-03-04T16:46:44.248Z [INFO]: MongoDB connected successfully
+2025-03-04T16:46:46.326Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T16:46:46.358Z [INFO]: Server is running on port 8000
+2025-03-04T16:46:46.374Z [INFO]: MongoDB connected successfully
+2025-03-04T16:46:51.731Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T16:46:51.760Z [INFO]: Server is running on port 8000
+2025-03-04T16:46:51.777Z [INFO]: MongoDB connected successfully
+2025-03-04T16:47:01.325Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T16:47:01.356Z [INFO]: Server is running on port 8000
+2025-03-04T16:47:01.372Z [INFO]: MongoDB connected successfully
+2025-03-04T16:47:01.996Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T16:47:02.025Z [INFO]: Server is running on port 8000
+2025-03-04T16:47:02.042Z [INFO]: MongoDB connected successfully
+2025-03-04T16:47:13.757Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T16:47:13.786Z [INFO]: Server is running on port 8000
+2025-03-04T16:47:13.801Z [INFO]: MongoDB connected successfully
+2025-03-04T16:47:14.539Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T16:47:14.587Z [INFO]: Server is running on port 8000
+2025-03-04T16:47:14.605Z [INFO]: MongoDB connected successfully
+2025-03-04T16:48:15.941Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T16:48:15.970Z [INFO]: Server is running on port 8000
+2025-03-04T16:48:15.987Z [INFO]: MongoDB connected successfully
+2025-03-04T16:48:39.184Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T16:48:39.219Z [INFO]: Server is running on port 8000
+2025-03-04T16:48:39.236Z [INFO]: MongoDB connected successfully
+2025-03-04T16:48:56.264Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T16:48:56.298Z [INFO]: Server is running on port 8000
+2025-03-04T16:48:56.314Z [INFO]: MongoDB connected successfully
+2025-03-04T16:55:04.156Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T16:55:04.188Z [INFO]: Server is running on port 8000
+2025-03-04T16:55:04.208Z [INFO]: MongoDB connected successfully
+2025-03-04T17:07:27.419Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T17:07:27.450Z [INFO]: Server is running on port 8000
+2025-03-04T17:07:27.469Z [INFO]: MongoDB connected successfully
+2025-03-04T17:08:26.127Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T17:08:26.155Z [INFO]: Server is running on port 8000
+2025-03-04T17:08:26.172Z [INFO]: MongoDB connected successfully
+2025-03-04T17:10:37.950Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T17:10:37.988Z [INFO]: Server is running on port 8000
+2025-03-04T17:10:38.016Z [INFO]: MongoDB connected successfully
+2025-03-04T17:13:16.594Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T17:13:16.654Z [INFO]: Server is running on port 8000
+2025-03-04T17:13:16.670Z [INFO]: MongoDB connected successfully
+2025-03-04T17:13:29.692Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T17:13:29.721Z [INFO]: Server is running on port 8000
+2025-03-04T17:13:29.733Z [INFO]: MongoDB connected successfully
+2025-03-04T17:14:23.105Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T17:14:23.152Z [INFO]: Server is running on port 8000
+2025-03-04T17:14:23.174Z [INFO]: MongoDB connected successfully
+2025-03-04T17:15:02.309Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T17:15:02.338Z [INFO]: Server is running on port 8000
+2025-03-04T17:15:02.352Z [INFO]: MongoDB connected successfully
+2025-03-04T17:15:30.753Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T17:15:30.792Z [INFO]: Server is running on port 8000
+2025-03-04T17:15:30.809Z [INFO]: MongoDB connected successfully
+2025-03-04T17:15:42.619Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T17:15:42.655Z [INFO]: Server is running on port 8000
+2025-03-04T17:15:42.673Z [INFO]: MongoDB connected successfully
+2025-03-04T17:16:34.942Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T17:16:34.967Z [INFO]: Server is running on port 8000
+2025-03-04T17:16:34.983Z [INFO]: MongoDB connected successfully
+2025-03-04T17:17:48.954Z [INFO]: Super Admin logged in
+2025-03-04T17:31:34.343Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T17:31:34.393Z [INFO]: Server is running on port 8000
+2025-03-04T17:31:34.412Z [INFO]: MongoDB connected successfully
+2025-03-04T17:36:20.769Z [INFO]: Super Admin logged in
+2025-03-04T17:36:22.754Z [INFO]: Super Admin logged in
+2025-03-04T17:36:29.188Z [INFO]: Super Admin logged in
+2025-03-04T18:47:00.489Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T18:47:00.519Z [INFO]: Server is running on port 8000
+2025-03-04T18:47:00.543Z [INFO]: MongoDB connected successfully
+2025-03-04T18:47:23.724Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T18:47:23.774Z [INFO]: Server is running on port 8000
+2025-03-04T18:47:23.794Z [INFO]: MongoDB connected successfully
+2025-03-04T18:47:59.815Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T18:47:59.860Z [INFO]: Server is running on port 8000
+2025-03-04T18:47:59.875Z [INFO]: MongoDB connected successfully
+2025-03-04T19:03:05.141Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T19:03:05.179Z [INFO]: Server is running on port 8000
+2025-03-04T19:03:05.193Z [INFO]: MongoDB connected successfully
+2025-03-04T19:04:30.568Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T19:04:30.614Z [INFO]: Server is running on port 8000
+2025-03-04T19:04:30.644Z [INFO]: MongoDB connected successfully
+2025-03-04T19:04:32.447Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T19:04:32.486Z [INFO]: Server is running on port 8000
+2025-03-04T19:04:32.501Z [INFO]: MongoDB connected successfully
+2025-03-04T19:05:52.858Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T19:05:52.911Z [INFO]: Server is running on port 8000
+2025-03-04T19:05:52.929Z [INFO]: MongoDB connected successfully
+2025-03-04T19:06:11.350Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T19:06:11.413Z [INFO]: Server is running on port 8000
+2025-03-04T19:06:11.429Z [INFO]: MongoDB connected successfully
+2025-03-04T19:07:53.765Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T19:07:53.792Z [INFO]: Server is running on port 8000
+2025-03-04T19:07:53.806Z [INFO]: MongoDB connected successfully
+2025-03-04T19:08:49.715Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T19:08:49.740Z [INFO]: Server is running on port 8000
+2025-03-04T19:08:49.754Z [INFO]: MongoDB connected successfully
+2025-03-04T19:09:44.224Z [INFO]: Super Admin logged in
+2025-03-04T21:07:47.194Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:07:47.223Z [INFO]: Server is running on port 8000
+2025-03-04T21:07:47.237Z [INFO]: MongoDB connected successfully
+2025-03-04T21:07:53.852Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:07:53.901Z [INFO]: Server is running on port 8000
+2025-03-04T21:07:53.923Z [INFO]: MongoDB connected successfully
+2025-03-04T21:08:37.618Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:08:37.646Z [INFO]: Server is running on port 8000
+2025-03-04T21:08:37.661Z [INFO]: MongoDB connected successfully
+2025-03-04T21:09:10.709Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:09:10.739Z [INFO]: Server is running on port 8000
+2025-03-04T21:09:10.752Z [INFO]: MongoDB connected successfully
+2025-03-04T21:11:14.128Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:11:14.164Z [INFO]: Server is running on port 8000
+2025-03-04T21:11:14.178Z [INFO]: MongoDB connected successfully
+2025-03-04T21:11:32.482Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:11:32.506Z [INFO]: Server is running on port 8000
+2025-03-04T21:11:32.520Z [INFO]: MongoDB connected successfully
+2025-03-04T21:12:46.715Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:12:46.752Z [INFO]: Server is running on port 8000
+2025-03-04T21:12:46.768Z [INFO]: MongoDB connected successfully
+2025-03-04T21:13:01.206Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:13:01.237Z [INFO]: Server is running on port 8000
+2025-03-04T21:13:01.252Z [INFO]: MongoDB connected successfully
+2025-03-04T21:13:03.204Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:13:03.240Z [INFO]: Server is running on port 8000
+2025-03-04T21:13:03.254Z [INFO]: MongoDB connected successfully
+2025-03-04T21:13:05.685Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:13:05.713Z [INFO]: Server is running on port 8000
+2025-03-04T21:13:05.728Z [INFO]: MongoDB connected successfully
+2025-03-04T21:13:51.184Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:13:51.215Z [INFO]: Server is running on port 8000
+2025-03-04T21:13:51.229Z [INFO]: MongoDB connected successfully
+2025-03-04T21:14:00.846Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:14:00.880Z [INFO]: Server is running on port 8000
+2025-03-04T21:14:00.904Z [INFO]: MongoDB connected successfully
+2025-03-04T21:14:05.061Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:14:05.096Z [INFO]: Server is running on port 8000
+2025-03-04T21:14:05.114Z [INFO]: MongoDB connected successfully
+2025-03-04T21:15:28.632Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:15:28.680Z [INFO]: Server is running on port 8000
+2025-03-04T21:15:28.698Z [INFO]: MongoDB connected successfully
+2025-03-04T21:15:42.114Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:15:42.142Z [INFO]: Server is running on port 8000
+2025-03-04T21:15:42.159Z [INFO]: MongoDB connected successfully
+2025-03-04T21:17:07.168Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:17:07.194Z [INFO]: Server is running on port 8000
+2025-03-04T21:17:07.213Z [INFO]: MongoDB connected successfully
+2025-03-04T21:17:39.669Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:17:39.695Z [INFO]: Server is running on port 8000
+2025-03-04T21:17:39.712Z [INFO]: MongoDB connected successfully
+2025-03-04T21:18:41.778Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:18:41.814Z [INFO]: Server is running on port 8000
+2025-03-04T21:18:41.840Z [INFO]: MongoDB connected successfully
+2025-03-04T21:19:10.790Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:19:10.827Z [INFO]: Server is running on port 8000
+2025-03-04T21:19:10.851Z [INFO]: MongoDB connected successfully
+2025-03-04T21:31:19.327Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:31:19.356Z [INFO]: Server is running on port 8000
+2025-03-04T21:31:19.374Z [INFO]: MongoDB connected successfully
+2025-03-04T21:32:04.313Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:32:04.363Z [INFO]: Server is running on port 8000
+2025-03-04T21:32:04.381Z [INFO]: MongoDB connected successfully
+2025-03-04T21:32:14.052Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:32:14.084Z [INFO]: Server is running on port 8000
+2025-03-04T21:32:14.102Z [INFO]: MongoDB connected successfully
+2025-03-04T21:32:16.613Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:32:16.657Z [INFO]: Server is running on port 8000
+2025-03-04T21:32:16.673Z [INFO]: MongoDB connected successfully
+2025-03-04T21:33:11.315Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:33:11.356Z [INFO]: Server is running on port 8000
+2025-03-04T21:33:11.371Z [INFO]: MongoDB connected successfully
+2025-03-04T21:33:43.585Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:33:43.611Z [INFO]: Server is running on port 8000
+2025-03-04T21:33:43.623Z [INFO]: MongoDB connected successfully
+2025-03-04T21:34:51.427Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:34:51.465Z [INFO]: Server is running on port 8000
+2025-03-04T21:34:51.481Z [INFO]: MongoDB connected successfully
+2025-03-04T21:36:00.768Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:36:49.010Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:39:33.992Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:39:34.736Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:42:08.286Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:42:08.738Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:42:14.975Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:42:14.980Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:46:53.579Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:46:53.584Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:46:53.753Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:46:53.762Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:47:07.276Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:47:07.287Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:47:07.749Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:47:07.774Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:47:23.932Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:47:23.938Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:47:54.737Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:47:54.741Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:47:58.561Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:47:58.566Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:48:16.388Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:48:16.392Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:48:16.736Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:48:16.747Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:48:19.875Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:48:19.881Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:52:29.946Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:52:30.729Z [INFO]: SuperAdmin authenticated to Create User
+2025-03-04T21:56:05.560Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:56:05.592Z [INFO]: Server is running on port 8000
+2025-03-04T21:56:05.611Z [INFO]: MongoDB connected successfully
+2025-03-04T21:56:13.224Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:56:13.253Z [INFO]: Server is running on port 8000
+2025-03-04T21:56:13.266Z [INFO]: MongoDB connected successfully
+2025-03-04T21:56:34.141Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:56:34.167Z [INFO]: Server is running on port 8000
+2025-03-04T21:56:34.179Z [INFO]: MongoDB connected successfully
+2025-03-04T21:56:56.795Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:56:56.832Z [INFO]: Server is running on port 8000
+2025-03-04T21:56:56.852Z [INFO]: MongoDB connected successfully
+2025-03-04T21:59:04.453Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:59:04.482Z [INFO]: Server is running on port 8000
+2025-03-04T21:59:04.500Z [INFO]: MongoDB connected successfully
+2025-03-04T21:59:24.098Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:59:24.128Z [INFO]: Server is running on port 8000
+2025-03-04T21:59:24.144Z [INFO]: MongoDB connected successfully
+2025-03-04T21:59:55.136Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T21:59:55.169Z [INFO]: Server is running on port 8000
+2025-03-04T21:59:55.187Z [INFO]: MongoDB connected successfully
+2025-03-04T22:00:03.454Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T22:00:03.503Z [INFO]: Server is running on port 8000
+2025-03-04T22:00:03.528Z [INFO]: MongoDB connected successfully
+2025-03-04T22:00:11.519Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T22:00:11.554Z [INFO]: Server is running on port 8000
+2025-03-04T22:00:11.568Z [INFO]: MongoDB connected successfully
+2025-03-04T22:58:30.988Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T22:58:31.061Z [INFO]: Server is running on port 8000
+2025-03-04T22:58:31.076Z [INFO]: MongoDB connected successfully
+2025-03-04T23:00:14.459Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T23:00:14.528Z [INFO]: Server is running on port 8000
+2025-03-04T23:00:14.554Z [INFO]: MongoDB connected successfully
+2025-03-04T23:01:02.728Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T23:01:02.759Z [INFO]: Server is running on port 8000
+2025-03-04T23:01:02.780Z [INFO]: MongoDB connected successfully
+2025-03-04T23:01:44.313Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T23:01:44.387Z [INFO]: Server is running on port 8000
+2025-03-04T23:01:44.412Z [INFO]: MongoDB connected successfully
+2025-03-04T23:02:52.557Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T23:02:52.616Z [INFO]: Server is running on port 8000
+2025-03-04T23:02:52.634Z [INFO]: MongoDB connected successfully
+2025-03-04T23:05:19.517Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T23:05:19.547Z [INFO]: Server is running on port 8000
+2025-03-04T23:05:19.565Z [INFO]: MongoDB connected successfully
+2025-03-04T23:05:22.091Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T23:05:22.118Z [INFO]: Server is running on port 8000
+2025-03-04T23:05:22.131Z [INFO]: MongoDB connected successfully
+2025-03-04T23:07:26.776Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T23:07:26.803Z [INFO]: Server is running on port 8000
+2025-03-04T23:07:26.819Z [INFO]: MongoDB connected successfully
+2025-03-04T23:09:03.458Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T23:09:03.511Z [INFO]: Server is running on port 8000
+2025-03-04T23:09:03.545Z [INFO]: MongoDB connected successfully
+2025-03-04T23:17:04.827Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T23:17:04.860Z [INFO]: Server is running on port 8000
+2025-03-04T23:17:04.881Z [INFO]: MongoDB connected successfully
+2025-03-04T23:17:17.707Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T23:17:17.784Z [INFO]: Server is running on port 8000
+2025-03-04T23:17:17.800Z [INFO]: MongoDB connected successfully
+2025-03-04T23:17:31.669Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T23:17:31.729Z [INFO]: Server is running on port 8000
+2025-03-04T23:17:31.747Z [INFO]: MongoDB connected successfully
+2025-03-04T23:18:35.989Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T23:18:36.017Z [INFO]: Server is running on port 8000
+2025-03-04T23:18:36.031Z [INFO]: MongoDB connected successfully
+2025-03-04T23:19:35.200Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T23:19:35.241Z [INFO]: Server is running on port 8000
+2025-03-04T23:19:35.254Z [INFO]: MongoDB connected successfully
+2025-03-04T23:20:01.384Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T23:20:01.415Z [INFO]: Server is running on port 8000
+2025-03-04T23:20:01.429Z [INFO]: MongoDB connected successfully
+2025-03-04T23:20:24.305Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T23:20:24.344Z [INFO]: Server is running on port 8000
+2025-03-04T23:20:24.364Z [INFO]: MongoDB connected successfully
+2025-03-04T23:25:17.040Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T23:25:17.066Z [INFO]: Server is running on port 8000
+2025-03-04T23:25:17.078Z [INFO]: MongoDB connected successfully
+2025-03-04T23:27:33.317Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T23:27:33.362Z [INFO]: Server is running on port 8000
+2025-03-04T23:27:33.382Z [INFO]: MongoDB connected successfully
+2025-03-04T23:27:50.813Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T23:27:50.846Z [INFO]: Server is running on port 8000
+2025-03-04T23:27:50.863Z [INFO]: MongoDB connected successfully
+2025-03-04T23:29:09.931Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T23:29:09.967Z [INFO]: Server is running on port 8000
+2025-03-04T23:29:09.985Z [INFO]: MongoDB connected successfully
+2025-03-04T23:39:56.447Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-04T23:39:56.482Z [INFO]: Server is running on port 8000
+2025-03-04T23:39:56.498Z [INFO]: MongoDB connected successfully
+2025-03-05T10:40:29.538Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T10:40:29.582Z [INFO]: Server is running on port 8000
+2025-03-05T10:40:29.604Z [INFO]: MongoDB connected successfully
+2025-03-05T10:41:40.923Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T10:41:40.957Z [INFO]: Server is running on port 8000
+2025-03-05T10:41:40.975Z [INFO]: MongoDB connected successfully
+2025-03-05T10:41:42.784Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T10:41:42.812Z [INFO]: Server is running on port 8000
+2025-03-05T10:41:42.830Z [INFO]: MongoDB connected successfully
+2025-03-05T10:41:52.252Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T10:41:52.288Z [INFO]: Server is running on port 8000
+2025-03-05T10:41:52.301Z [INFO]: MongoDB connected successfully
+2025-03-05T10:41:54.327Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T10:41:54.357Z [INFO]: Server is running on port 8000
+2025-03-05T10:41:54.371Z [INFO]: MongoDB connected successfully
+2025-03-05T10:43:14.535Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T10:43:14.566Z [INFO]: Server is running on port 8000
+2025-03-05T10:43:14.583Z [INFO]: MongoDB connected successfully
+2025-03-05T10:43:29.070Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T10:43:29.100Z [INFO]: Server is running on port 8000
+2025-03-05T10:43:29.112Z [INFO]: MongoDB connected successfully
+2025-03-05T10:44:37.494Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T10:44:37.533Z [INFO]: Server is running on port 8000
+2025-03-05T10:44:37.547Z [INFO]: MongoDB connected successfully
+2025-03-05T10:45:46.331Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T10:45:46.374Z [INFO]: Server is running on port 8000
+2025-03-05T10:45:46.391Z [INFO]: MongoDB connected successfully
+2025-03-05T10:51:33.892Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T10:51:33.918Z [INFO]: Server is running on port 8000
+2025-03-05T10:51:33.937Z [INFO]: MongoDB connected successfully
+2025-03-05T10:51:55.239Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T10:51:55.277Z [INFO]: Server is running on port 8000
+2025-03-05T10:51:55.290Z [INFO]: MongoDB connected successfully
+2025-03-05T11:15:58.755Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T11:15:58.784Z [INFO]: Server is running on port 8000
+2025-03-05T11:15:58.799Z [INFO]: MongoDB connected successfully
+2025-03-05T11:16:27.407Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T11:16:27.437Z [INFO]: Server is running on port 8000
+2025-03-05T11:16:27.451Z [INFO]: MongoDB connected successfully
+2025-03-05T11:17:42.541Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T11:17:42.574Z [INFO]: Server is running on port 8000
+2025-03-05T11:17:42.593Z [INFO]: MongoDB connected successfully
+2025-03-05T11:17:50.233Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T11:17:50.265Z [INFO]: Server is running on port 8000
+2025-03-05T11:17:50.292Z [INFO]: MongoDB connected successfully
+2025-03-05T15:18:33.316Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:18:33.348Z [INFO]: Server is running on port 8000
+2025-03-05T15:18:33.361Z [INFO]: MongoDB connected successfully
+2025-03-05T15:18:56.108Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:18:56.149Z [INFO]: Server is running on port 8000
+2025-03-05T15:18:56.179Z [INFO]: MongoDB connected successfully
+2025-03-05T15:19:23.234Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:19:23.273Z [INFO]: Server is running on port 8000
+2025-03-05T15:19:23.299Z [INFO]: MongoDB connected successfully
+2025-03-05T15:20:29.061Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:20:29.091Z [INFO]: Server is running on port 8000
+2025-03-05T15:20:29.115Z [INFO]: MongoDB connected successfully
+2025-03-05T15:21:17.489Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:21:17.537Z [INFO]: Server is running on port 8000
+2025-03-05T15:21:17.581Z [INFO]: MongoDB connected successfully
+2025-03-05T15:29:29.659Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:29:29.698Z [INFO]: Server is running on port 8000
+2025-03-05T15:29:29.717Z [INFO]: MongoDB connected successfully
+2025-03-05T15:29:31.345Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:29:31.390Z [INFO]: Server is running on port 8000
+2025-03-05T15:29:31.403Z [INFO]: MongoDB connected successfully
+2025-03-05T15:31:03.010Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:31:03.043Z [INFO]: Server is running on port 8000
+2025-03-05T15:31:03.060Z [INFO]: MongoDB connected successfully
+2025-03-05T15:31:03.838Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:31:03.869Z [INFO]: Server is running on port 8000
+2025-03-05T15:31:03.884Z [INFO]: MongoDB connected successfully
+2025-03-05T15:31:56.600Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:31:56.630Z [INFO]: Server is running on port 8000
+2025-03-05T15:31:56.645Z [INFO]: MongoDB connected successfully
+2025-03-05T15:35:12.125Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:35:12.165Z [INFO]: Server is running on port 8000
+2025-03-05T15:35:12.183Z [INFO]: MongoDB connected successfully
+2025-03-05T15:35:21.399Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:35:21.426Z [INFO]: Server is running on port 8000
+2025-03-05T15:35:21.438Z [INFO]: MongoDB connected successfully
+2025-03-05T15:35:30.459Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:35:30.495Z [INFO]: Server is running on port 8000
+2025-03-05T15:35:30.516Z [INFO]: MongoDB connected successfully
+2025-03-05T15:35:40.247Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:35:40.276Z [INFO]: Server is running on port 8000
+2025-03-05T15:35:40.293Z [INFO]: MongoDB connected successfully
+2025-03-05T15:36:08.186Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:36:08.216Z [INFO]: Server is running on port 8000
+2025-03-05T15:36:08.228Z [INFO]: MongoDB connected successfully
+2025-03-05T15:36:23.985Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:36:24.013Z [INFO]: Server is running on port 8000
+2025-03-05T15:36:24.028Z [INFO]: MongoDB connected successfully
+2025-03-05T15:36:45.177Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:36:45.221Z [INFO]: Server is running on port 8000
+2025-03-05T15:36:45.237Z [INFO]: MongoDB connected successfully
+2025-03-05T15:38:38.594Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:38:38.647Z [INFO]: Server is running on port 8000
+2025-03-05T15:38:38.668Z [INFO]: MongoDB connected successfully
+2025-03-05T15:40:20.190Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:40:20.240Z [INFO]: Server is running on port 8000
+2025-03-05T15:40:20.264Z [INFO]: MongoDB connected successfully
+2025-03-05T15:40:28.883Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:40:28.910Z [INFO]: Server is running on port 8000
+2025-03-05T15:40:28.926Z [INFO]: MongoDB connected successfully
+2025-03-05T15:42:29.517Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:42:29.543Z [INFO]: Server is running on port 8000
+2025-03-05T15:42:29.567Z [INFO]: MongoDB connected successfully
+2025-03-05T15:43:02.176Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:43:02.204Z [INFO]: Server is running on port 8000
+2025-03-05T15:43:02.218Z [INFO]: MongoDB connected successfully
+2025-03-05T15:46:36.159Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:46:36.198Z [INFO]: Server is running on port 8000
+2025-03-05T15:46:36.227Z [INFO]: MongoDB connected successfully
+2025-03-05T15:48:54.633Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:48:54.672Z [INFO]: Server is running on port 8000
+2025-03-05T15:48:54.699Z [INFO]: MongoDB connected successfully
+2025-03-05T15:49:32.009Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:49:32.049Z [INFO]: Server is running on port 8000
+2025-03-05T15:49:32.065Z [INFO]: MongoDB connected successfully
+2025-03-05T15:49:40.997Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:49:41.065Z [INFO]: Server is running on port 8000
+2025-03-05T15:49:41.092Z [INFO]: MongoDB connected successfully
+2025-03-05T15:49:55.415Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:49:55.463Z [INFO]: Server is running on port 8000
+2025-03-05T15:49:55.498Z [INFO]: MongoDB connected successfully
+2025-03-05T15:50:42.104Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:50:42.138Z [INFO]: Server is running on port 8000
+2025-03-05T15:50:42.159Z [INFO]: MongoDB connected successfully
+2025-03-05T15:50:46.319Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:50:46.352Z [INFO]: Server is running on port 8000
+2025-03-05T15:50:46.366Z [INFO]: MongoDB connected successfully
+2025-03-05T15:52:00.002Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:52:00.034Z [INFO]: Server is running on port 8000
+2025-03-05T15:52:00.051Z [INFO]: MongoDB connected successfully
+2025-03-05T15:52:29.342Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:52:29.378Z [INFO]: Server is running on port 8000
+2025-03-05T15:52:29.393Z [INFO]: MongoDB connected successfully
+2025-03-05T15:57:57.659Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T15:57:57.687Z [INFO]: Server is running on port 8000
+2025-03-05T15:57:57.702Z [INFO]: MongoDB connected successfully
+2025-03-05T16:02:48.655Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T16:02:48.683Z [INFO]: Server is running on port 8000
+2025-03-05T16:02:48.702Z [INFO]: MongoDB connected successfully
+2025-03-05T16:06:24.394Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T16:06:24.442Z [INFO]: Server is running on port 8000
+2025-03-05T16:06:24.480Z [INFO]: MongoDB connected successfully
+2025-03-05T16:07:01.381Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T16:07:01.410Z [INFO]: Server is running on port 8000
+2025-03-05T16:07:01.429Z [INFO]: MongoDB connected successfully
+2025-03-05T16:08:01.040Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T16:08:01.082Z [INFO]: Server is running on port 8000
+2025-03-05T16:08:01.121Z [INFO]: MongoDB connected successfully
+2025-03-05T16:08:35.752Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T16:08:35.787Z [INFO]: Server is running on port 8000
+2025-03-05T16:08:35.802Z [INFO]: MongoDB connected successfully
+2025-03-05T16:08:44.337Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T16:08:44.362Z [INFO]: Server is running on port 8000
+2025-03-05T16:08:44.382Z [INFO]: MongoDB connected successfully
+2025-03-05T16:09:18.253Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T16:09:18.282Z [INFO]: Server is running on port 8000
+2025-03-05T16:09:18.296Z [INFO]: MongoDB connected successfully
+2025-03-05T16:09:23.790Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T16:09:23.818Z [INFO]: Server is running on port 8000
+2025-03-05T16:09:23.839Z [INFO]: MongoDB connected successfully
+2025-03-05T16:12:09.649Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T16:12:09.680Z [INFO]: Server is running on port 8000
+2025-03-05T16:12:09.698Z [INFO]: MongoDB connected successfully
+2025-03-05T16:12:34.726Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T16:12:34.779Z [INFO]: Server is running on port 8000
+2025-03-05T16:12:34.811Z [INFO]: MongoDB connected successfully
+2025-03-05T16:12:54.731Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T16:12:54.761Z [INFO]: Server is running on port 8000
+2025-03-05T16:12:54.778Z [INFO]: MongoDB connected successfully
+2025-03-05T16:13:44.657Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T16:13:44.685Z [INFO]: Server is running on port 8000
+2025-03-05T16:13:44.699Z [INFO]: MongoDB connected successfully
+2025-03-05T16:18:18.740Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T16:18:18.768Z [INFO]: Server is running on port 8000
+2025-03-05T16:18:18.781Z [INFO]: MongoDB connected successfully
+2025-03-05T16:20:58.680Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T16:20:58.708Z [INFO]: Server is running on port 8000
+2025-03-05T16:20:58.721Z [INFO]: MongoDB connected successfully
+2025-03-05T16:21:10.867Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T16:21:10.914Z [INFO]: Server is running on port 8000
+2025-03-05T16:21:10.944Z [INFO]: MongoDB connected successfully
+2025-03-05T16:22:30.353Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T16:22:30.390Z [INFO]: Server is running on port 8000
+2025-03-05T16:22:30.404Z [INFO]: MongoDB connected successfully
+2025-03-05T16:22:46.368Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T16:22:46.397Z [INFO]: Server is running on port 8000
+2025-03-05T16:22:46.410Z [INFO]: MongoDB connected successfully
+2025-03-05T16:22:56.757Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T16:22:56.789Z [INFO]: Server is running on port 8000
+2025-03-05T16:22:56.810Z [INFO]: MongoDB connected successfully
+2025-03-05T16:23:04.994Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T16:23:05.029Z [INFO]: Server is running on port 8000
+2025-03-05T16:23:05.045Z [INFO]: MongoDB connected successfully
+2025-03-05T16:23:11.416Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T16:23:11.449Z [INFO]: Server is running on port 8000
+2025-03-05T16:23:11.461Z [INFO]: MongoDB connected successfully
+2025-03-05T16:23:30.907Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T16:23:30.936Z [INFO]: Server is running on port 8000
+2025-03-05T16:23:30.951Z [INFO]: MongoDB connected successfully
+2025-03-05T16:24:13.915Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T16:24:13.946Z [INFO]: Server is running on port 8000
+2025-03-05T16:24:13.963Z [INFO]: MongoDB connected successfully
+2025-03-05T16:24:57.165Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T16:24:57.203Z [INFO]: Server is running on port 8000
+2025-03-05T16:24:57.224Z [INFO]: MongoDB connected successfully
+2025-03-05T16:45:16.111Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T16:45:16.143Z [INFO]: Server is running on port 8000
+2025-03-05T16:45:16.159Z [INFO]: MongoDB connected successfully
+2025-03-05T17:28:22.800Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T17:28:22.827Z [INFO]: Server is running on port 8000
+2025-03-05T17:28:22.842Z [INFO]: MongoDB connected successfully
+2025-03-05T17:39:08.901Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T17:39:08.932Z [INFO]: Server is running on port 8000
+2025-03-05T17:39:08.952Z [INFO]: MongoDB connected successfully
+2025-03-05T17:39:19.453Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T17:39:19.485Z [INFO]: Server is running on port 8000
+2025-03-05T17:39:19.497Z [INFO]: MongoDB connected successfully
+2025-03-05T17:39:26.915Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T17:39:26.943Z [INFO]: Server is running on port 8000
+2025-03-05T17:39:26.964Z [INFO]: MongoDB connected successfully
+2025-03-05T17:40:47.257Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T17:40:47.294Z [INFO]: Server is running on port 8000
+2025-03-05T17:40:47.312Z [INFO]: MongoDB connected successfully
+2025-03-05T17:41:16.383Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T17:41:16.411Z [INFO]: Server is running on port 8000
+2025-03-05T17:41:16.425Z [INFO]: MongoDB connected successfully
+2025-03-05T17:41:34.195Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T17:41:34.225Z [INFO]: Server is running on port 8000
+2025-03-05T17:41:34.238Z [INFO]: MongoDB connected successfully
+2025-03-05T19:57:50.551Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T19:57:50.588Z [INFO]: Server is running on port 8000
+2025-03-05T19:57:50.609Z [INFO]: MongoDB connected successfully
+2025-03-05T20:00:00.020Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T20:00:00.056Z [INFO]: Server is running on port 8000
+2025-03-05T20:00:00.073Z [INFO]: MongoDB connected successfully
+2025-03-05T20:08:23.295Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T20:08:23.323Z [INFO]: Server is running on port 8000
+2025-03-05T20:08:23.342Z [INFO]: MongoDB connected successfully
+2025-03-05T20:55:41.766Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T20:55:41.812Z [INFO]: Server is running on port 8000
+2025-03-05T20:55:41.828Z [INFO]: MongoDB connected successfully
+2025-03-05T21:56:38.343Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T21:56:38.374Z [INFO]: Server is running on port 8000
+2025-03-05T21:56:38.391Z [INFO]: MongoDB connected successfully
+2025-03-05T21:57:11.144Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T21:57:11.182Z [INFO]: Server is running on port 8000
+2025-03-05T21:57:11.203Z [INFO]: MongoDB connected successfully
+2025-03-05T21:59:27.398Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-05T21:59:27.428Z [INFO]: Server is running on port 8000
+2025-03-05T21:59:27.441Z [INFO]: MongoDB connected successfully
+2025-03-06T11:05:18.678Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T11:05:18.717Z [INFO]: Server is running on port 8000
+2025-03-06T11:05:18.744Z [INFO]: MongoDB connected successfully
+2025-03-06T16:41:25.495Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T16:41:25.517Z [INFO]: Server is running on port 8000
+2025-03-06T16:41:25.530Z [INFO]: MongoDB connected successfully
+2025-03-06T16:42:09.817Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T16:42:09.842Z [INFO]: Server is running on port 8000
+2025-03-06T16:42:09.854Z [INFO]: MongoDB connected successfully
+2025-03-06T16:43:44.861Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T16:43:44.883Z [INFO]: Server is running on port 8000
+2025-03-06T16:43:44.895Z [INFO]: MongoDB connected successfully
+2025-03-06T16:47:09.987Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T16:47:10.013Z [INFO]: Server is running on port 8000
+2025-03-06T16:47:10.027Z [INFO]: MongoDB connected successfully
+2025-03-06T16:57:30.140Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T16:57:30.169Z [INFO]: Server is running on port 8000
+2025-03-06T16:57:30.185Z [INFO]: MongoDB connected successfully
+2025-03-06T17:00:11.056Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T17:00:11.075Z [INFO]: Server is running on port 8000
+2025-03-06T17:00:11.085Z [INFO]: MongoDB connected successfully
+2025-03-06T17:00:17.689Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T17:00:17.714Z [INFO]: Server is running on port 8000
+2025-03-06T17:00:17.726Z [INFO]: MongoDB connected successfully
+2025-03-06T17:02:20.726Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T17:02:20.751Z [INFO]: Server is running on port 8000
+2025-03-06T17:02:20.764Z [INFO]: MongoDB connected successfully
+2025-03-06T17:11:24.867Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T17:11:24.893Z [INFO]: Server is running on port 8000
+2025-03-06T17:11:24.905Z [INFO]: MongoDB connected successfully
+2025-03-06T17:14:46.187Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T17:14:46.206Z [INFO]: Server is running on port 8000
+2025-03-06T17:14:46.218Z [INFO]: MongoDB connected successfully
+2025-03-06T18:21:53.061Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T18:21:53.094Z [INFO]: Server is running on port 8000
+2025-03-06T18:21:53.108Z [INFO]: MongoDB connected successfully
+2025-03-06T18:22:20.519Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T18:22:20.543Z [INFO]: Server is running on port 8000
+2025-03-06T18:22:20.554Z [INFO]: MongoDB connected successfully
+2025-03-06T18:24:21.378Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T18:24:21.406Z [INFO]: Server is running on port 8000
+2025-03-06T18:24:21.418Z [INFO]: MongoDB connected successfully
+2025-03-06T21:34:37.735Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T21:34:37.776Z [INFO]: Server is running on port 8000
+2025-03-06T21:34:37.797Z [INFO]: MongoDB connected successfully
+2025-03-06T21:34:58.901Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T21:34:58.930Z [INFO]: Server is running on port 8000
+2025-03-06T21:34:58.946Z [INFO]: MongoDB connected successfully
+2025-03-06T21:35:08.502Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T21:35:08.543Z [INFO]: Server is running on port 8000
+2025-03-06T21:35:08.560Z [INFO]: MongoDB connected successfully
+2025-03-06T21:35:20.368Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T21:35:20.399Z [INFO]: Server is running on port 8000
+2025-03-06T21:35:20.413Z [INFO]: MongoDB connected successfully
+2025-03-06T21:35:34.217Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T21:35:34.248Z [INFO]: Server is running on port 8000
+2025-03-06T21:35:34.267Z [INFO]: MongoDB connected successfully
+2025-03-06T21:38:28.272Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T21:38:28.319Z [INFO]: Server is running on port 8000
+2025-03-06T21:38:28.337Z [INFO]: MongoDB connected successfully
+2025-03-06T21:39:28.288Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T21:39:28.314Z [INFO]: Server is running on port 8000
+2025-03-06T21:39:28.335Z [INFO]: MongoDB connected successfully
+2025-03-06T21:40:29.410Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T21:40:29.438Z [INFO]: Server is running on port 8000
+2025-03-06T21:40:29.453Z [INFO]: MongoDB connected successfully
+2025-03-06T21:41:24.221Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T21:41:24.253Z [INFO]: Server is running on port 8000
+2025-03-06T21:41:24.266Z [INFO]: MongoDB connected successfully
+2025-03-06T21:44:47.131Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T21:44:47.160Z [INFO]: Server is running on port 8000
+2025-03-06T21:44:47.178Z [INFO]: MongoDB connected successfully
+2025-03-06T21:44:53.096Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T21:44:53.141Z [INFO]: Server is running on port 8000
+2025-03-06T21:44:53.158Z [INFO]: MongoDB connected successfully
+2025-03-06T21:45:02.124Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T21:45:02.152Z [INFO]: Server is running on port 8000
+2025-03-06T21:45:02.166Z [INFO]: MongoDB connected successfully
+2025-03-06T21:46:05.304Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T21:46:05.335Z [INFO]: Server is running on port 8000
+2025-03-06T21:46:05.352Z [INFO]: MongoDB connected successfully
+2025-03-06T21:47:47.489Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T21:47:47.518Z [INFO]: Server is running on port 8000
+2025-03-06T21:47:47.531Z [INFO]: MongoDB connected successfully
+2025-03-06T21:50:22.514Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T21:50:22.551Z [INFO]: Server is running on port 8000
+2025-03-06T21:50:22.567Z [INFO]: MongoDB connected successfully
+2025-03-06T21:54:01.291Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T21:54:01.325Z [INFO]: Server is running on port 8000
+2025-03-06T21:54:01.339Z [INFO]: MongoDB connected successfully
+2025-03-06T21:56:10.456Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T21:56:10.485Z [INFO]: Server is running on port 8000
+2025-03-06T21:56:10.499Z [INFO]: MongoDB connected successfully
+2025-03-06T21:56:45.704Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T21:56:45.729Z [INFO]: Server is running on port 8000
+2025-03-06T21:56:45.748Z [INFO]: MongoDB connected successfully
+2025-03-06T21:56:59.742Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T21:56:59.771Z [INFO]: Server is running on port 8000
+2025-03-06T21:56:59.786Z [INFO]: MongoDB connected successfully
+2025-03-06T21:57:02.507Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T21:57:02.537Z [INFO]: Server is running on port 8000
+2025-03-06T21:57:02.551Z [INFO]: MongoDB connected successfully
+2025-03-06T22:02:49.855Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T22:02:49.882Z [INFO]: Server is running on port 8000
+2025-03-06T22:02:49.895Z [INFO]: MongoDB connected successfully
+2025-03-06T22:03:16.422Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T22:03:16.450Z [INFO]: Server is running on port 8000
+2025-03-06T22:03:16.465Z [INFO]: MongoDB connected successfully
+2025-03-06T22:05:40.254Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T22:05:40.279Z [INFO]: Server is running on port 8000
+2025-03-06T22:05:40.294Z [INFO]: MongoDB connected successfully
+2025-03-06T22:06:03.843Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T22:06:03.873Z [INFO]: Server is running on port 8000
+2025-03-06T22:06:03.892Z [INFO]: MongoDB connected successfully
+2025-03-06T22:13:04.062Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T22:13:04.090Z [INFO]: Server is running on port 8000
+2025-03-06T22:13:04.103Z [INFO]: MongoDB connected successfully
+2025-03-06T22:13:05.145Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T22:13:05.177Z [INFO]: Server is running on port 8000
+2025-03-06T22:13:05.192Z [INFO]: MongoDB connected successfully
+2025-03-06T22:19:51.056Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T22:19:51.096Z [INFO]: Server is running on port 8000
+2025-03-06T22:19:51.111Z [INFO]: MongoDB connected successfully
+2025-03-06T22:19:58.798Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T22:19:58.824Z [INFO]: Server is running on port 8000
+2025-03-06T22:19:58.843Z [INFO]: MongoDB connected successfully
+2025-03-06T22:20:17.259Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T22:20:17.291Z [INFO]: Server is running on port 8000
+2025-03-06T22:20:17.303Z [INFO]: MongoDB connected successfully
+2025-03-06T22:29:39.354Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T22:29:39.379Z [INFO]: Server is running on port 8000
+2025-03-06T22:29:39.394Z [INFO]: MongoDB connected successfully
+2025-03-06T22:29:46.394Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T22:29:46.438Z [INFO]: Server is running on port 8000
+2025-03-06T22:29:46.454Z [INFO]: MongoDB connected successfully
+2025-03-06T22:30:58.198Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T22:30:58.248Z [INFO]: Server is running on port 8000
+2025-03-06T22:30:58.267Z [INFO]: MongoDB connected successfully
+2025-03-06T22:32:17.889Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-06T22:32:17.933Z [INFO]: Server is running on port 8000
+2025-03-06T22:32:17.947Z [INFO]: MongoDB connected successfully
+2025-03-07T16:26:13.474Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T16:26:13.498Z [INFO]: Server is running on port 8000
+2025-03-07T16:26:13.513Z [INFO]: MongoDB connected successfully
+2025-03-07T16:28:05.084Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T16:28:05.113Z [INFO]: Server is running on port 8000
+2025-03-07T16:28:05.125Z [INFO]: MongoDB connected successfully
+2025-03-07T16:30:44.712Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T16:30:44.735Z [INFO]: Server is running on port 8000
+2025-03-07T16:30:44.745Z [INFO]: MongoDB connected successfully
+2025-03-07T17:54:16.394Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T17:54:16.415Z [INFO]: Server is running on port 8000
+2025-03-07T17:54:16.428Z [INFO]: MongoDB connected successfully
+2025-03-07T18:01:27.557Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T18:01:27.579Z [INFO]: Server is running on port 8000
+2025-03-07T18:01:27.589Z [INFO]: MongoDB connected successfully
+2025-03-07T18:09:41.010Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T18:09:41.032Z [INFO]: Server is running on port 8000
+2025-03-07T18:09:41.047Z [INFO]: MongoDB connected successfully
+2025-03-07T18:11:10.776Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T18:11:10.798Z [INFO]: Server is running on port 8000
+2025-03-07T18:11:10.808Z [INFO]: MongoDB connected successfully
+2025-03-07T18:20:03.645Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T18:20:03.664Z [INFO]: Server is running on port 8000
+2025-03-07T18:20:03.675Z [INFO]: MongoDB connected successfully
+2025-03-07T20:45:03.418Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T20:45:03.435Z [INFO]: Server is running on port 8000
+2025-03-07T20:45:03.453Z [INFO]: MongoDB connected successfully
+2025-03-07T20:46:29.554Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T20:46:29.574Z [INFO]: Server is running on port 8000
+2025-03-07T20:46:29.587Z [INFO]: MongoDB connected successfully
+2025-03-07T20:46:48.807Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T20:46:48.834Z [INFO]: Server is running on port 8000
+2025-03-07T20:46:48.844Z [INFO]: MongoDB connected successfully
+2025-03-07T20:46:51.463Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T20:46:51.483Z [INFO]: Server is running on port 8000
+2025-03-07T20:46:51.500Z [INFO]: MongoDB connected successfully
+2025-03-07T20:49:35.574Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T20:49:35.593Z [INFO]: Server is running on port 8000
+2025-03-07T20:49:35.603Z [INFO]: MongoDB connected successfully
+2025-03-07T20:49:56.577Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T20:49:56.600Z [INFO]: Server is running on port 8000
+2025-03-07T20:49:56.612Z [INFO]: MongoDB connected successfully
+2025-03-07T20:50:07.075Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T20:50:07.103Z [INFO]: Server is running on port 8000
+2025-03-07T20:50:07.115Z [INFO]: MongoDB connected successfully
+2025-03-07T20:51:54.847Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T20:51:54.867Z [INFO]: Server is running on port 8000
+2025-03-07T20:51:54.879Z [INFO]: MongoDB connected successfully
+2025-03-07T20:52:01.334Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T20:52:01.355Z [INFO]: Server is running on port 8000
+2025-03-07T20:52:01.365Z [INFO]: MongoDB connected successfully
+2025-03-07T20:52:43.007Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T20:52:43.029Z [INFO]: Server is running on port 8000
+2025-03-07T20:52:43.042Z [INFO]: MongoDB connected successfully
+2025-03-07T20:53:31.723Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T20:53:31.743Z [INFO]: Server is running on port 8000
+2025-03-07T20:53:31.756Z [INFO]: MongoDB connected successfully
+2025-03-07T20:54:11.246Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T20:54:11.267Z [INFO]: Server is running on port 8000
+2025-03-07T20:54:11.278Z [INFO]: MongoDB connected successfully
+2025-03-07T21:06:17.049Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T21:06:17.069Z [INFO]: Server is running on port 8000
+2025-03-07T21:06:17.083Z [INFO]: MongoDB connected successfully
+2025-03-07T21:13:53.492Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T21:13:53.514Z [INFO]: Server is running on port 8000
+2025-03-07T21:13:53.527Z [INFO]: MongoDB connected successfully
+2025-03-07T21:20:47.925Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T21:20:47.948Z [INFO]: Server is running on port 8000
+2025-03-07T21:20:47.960Z [INFO]: MongoDB connected successfully
+2025-03-07T21:22:03.881Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T21:22:03.901Z [INFO]: Server is running on port 8000
+2025-03-07T21:22:03.911Z [INFO]: MongoDB connected successfully
+2025-03-07T21:22:09.098Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T21:22:09.117Z [INFO]: Server is running on port 8000
+2025-03-07T21:22:09.127Z [INFO]: MongoDB connected successfully
+2025-03-07T21:45:06.973Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T21:45:06.993Z [INFO]: Server is running on port 8000
+2025-03-07T21:45:07.008Z [INFO]: MongoDB connected successfully
+2025-03-07T21:46:14.698Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T21:46:14.719Z [INFO]: Server is running on port 8000
+2025-03-07T21:46:14.734Z [INFO]: MongoDB connected successfully
+2025-03-07T21:46:42.996Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T21:46:43.023Z [INFO]: Server is running on port 8000
+2025-03-07T21:46:43.039Z [INFO]: MongoDB connected successfully
+2025-03-07T21:46:51.433Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T21:46:51.454Z [INFO]: Server is running on port 8000
+2025-03-07T21:46:51.469Z [INFO]: MongoDB connected successfully
+2025-03-07T21:46:56.651Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T21:46:56.667Z [INFO]: Server is running on port 8000
+2025-03-07T21:46:56.677Z [INFO]: MongoDB connected successfully
+2025-03-07T21:48:23.715Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T21:48:23.738Z [INFO]: Server is running on port 8000
+2025-03-07T21:48:23.758Z [INFO]: MongoDB connected successfully
+2025-03-07T21:48:33.154Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T21:48:33.174Z [INFO]: Server is running on port 8000
+2025-03-07T21:48:33.186Z [INFO]: MongoDB connected successfully
+2025-03-07T21:49:17.264Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T21:49:17.290Z [INFO]: Server is running on port 8000
+2025-03-07T21:49:17.304Z [INFO]: MongoDB connected successfully
+2025-03-07T22:20:19.590Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:20:19.609Z [INFO]: Server is running on port 8000
+2025-03-07T22:20:19.628Z [INFO]: MongoDB connected successfully
+2025-03-07T22:20:31.768Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:20:31.791Z [INFO]: Server is running on port 8000
+2025-03-07T22:20:31.805Z [INFO]: MongoDB connected successfully
+2025-03-07T22:22:42.456Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:22:42.478Z [INFO]: Server is running on port 8000
+2025-03-07T22:22:42.489Z [INFO]: MongoDB connected successfully
+2025-03-07T22:23:40.224Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:23:40.243Z [INFO]: Server is running on port 8000
+2025-03-07T22:23:40.254Z [INFO]: MongoDB connected successfully
+2025-03-07T22:23:49.023Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:23:49.046Z [INFO]: Server is running on port 8000
+2025-03-07T22:23:49.057Z [INFO]: MongoDB connected successfully
+2025-03-07T22:25:41.992Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:25:42.014Z [INFO]: Server is running on port 8000
+2025-03-07T22:25:42.026Z [INFO]: MongoDB connected successfully
+2025-03-07T22:26:23.430Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:26:23.451Z [INFO]: Server is running on port 8000
+2025-03-07T22:26:23.466Z [INFO]: MongoDB connected successfully
+2025-03-07T22:26:33.810Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:26:33.830Z [INFO]: Server is running on port 8000
+2025-03-07T22:26:33.841Z [INFO]: MongoDB connected successfully
+2025-03-07T22:26:46.770Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:26:46.790Z [INFO]: Server is running on port 8000
+2025-03-07T22:26:46.802Z [INFO]: MongoDB connected successfully
+2025-03-07T22:26:58.633Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:26:58.657Z [INFO]: Server is running on port 8000
+2025-03-07T22:26:58.667Z [INFO]: MongoDB connected successfully
+2025-03-07T22:27:11.968Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:27:11.989Z [INFO]: Server is running on port 8000
+2025-03-07T22:27:12.004Z [INFO]: MongoDB connected successfully
+2025-03-07T22:28:40.821Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:28:40.841Z [INFO]: Server is running on port 8000
+2025-03-07T22:28:40.853Z [INFO]: MongoDB connected successfully
+2025-03-07T22:33:46.474Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:33:46.497Z [INFO]: Server is running on port 8000
+2025-03-07T22:33:46.510Z [INFO]: MongoDB connected successfully
+2025-03-07T22:37:38.947Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:37:38.965Z [INFO]: Server is running on port 8000
+2025-03-07T22:37:38.984Z [INFO]: MongoDB connected successfully
+2025-03-07T22:37:54.652Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:37:54.680Z [INFO]: Server is running on port 8000
+2025-03-07T22:37:54.692Z [INFO]: MongoDB connected successfully
+2025-03-07T22:38:19.260Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:38:19.281Z [INFO]: Server is running on port 8000
+2025-03-07T22:38:19.292Z [INFO]: MongoDB connected successfully
+2025-03-07T22:38:30.073Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:38:30.101Z [INFO]: Server is running on port 8000
+2025-03-07T22:38:30.119Z [INFO]: MongoDB connected successfully
+2025-03-07T22:38:41.398Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:38:41.419Z [INFO]: Server is running on port 8000
+2025-03-07T22:38:41.432Z [INFO]: MongoDB connected successfully
+2025-03-07T22:39:12.937Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:39:12.962Z [INFO]: Server is running on port 8000
+2025-03-07T22:39:12.980Z [INFO]: MongoDB connected successfully
+2025-03-07T22:39:39.404Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:39:39.425Z [INFO]: Server is running on port 8000
+2025-03-07T22:39:39.436Z [INFO]: MongoDB connected successfully
+2025-03-07T22:41:20.793Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:41:20.813Z [INFO]: Server is running on port 8000
+2025-03-07T22:41:20.825Z [INFO]: MongoDB connected successfully
+2025-03-07T22:45:20.970Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:45:20.989Z [INFO]: Server is running on port 8000
+2025-03-07T22:45:21.000Z [INFO]: MongoDB connected successfully
+2025-03-07T22:49:38.286Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:49:38.312Z [INFO]: Server is running on port 8000
+2025-03-07T22:49:38.323Z [INFO]: MongoDB connected successfully
+2025-03-07T22:50:31.527Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:50:31.550Z [INFO]: Server is running on port 8000
+2025-03-07T22:50:31.564Z [INFO]: MongoDB connected successfully
+2025-03-07T22:51:31.470Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:51:31.490Z [INFO]: Server is running on port 8000
+2025-03-07T22:51:31.500Z [INFO]: MongoDB connected successfully
+2025-03-07T22:52:19.093Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:52:19.116Z [INFO]: Server is running on port 8000
+2025-03-07T22:52:19.127Z [INFO]: MongoDB connected successfully
+2025-03-07T22:52:22.334Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:52:22.357Z [INFO]: Server is running on port 8000
+2025-03-07T22:52:22.367Z [INFO]: MongoDB connected successfully
+2025-03-07T22:52:33.589Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:52:33.611Z [INFO]: Server is running on port 8000
+2025-03-07T22:52:33.620Z [INFO]: MongoDB connected successfully
+2025-03-07T22:52:35.315Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:52:35.335Z [INFO]: Server is running on port 8000
+2025-03-07T22:52:35.348Z [INFO]: MongoDB connected successfully
+2025-03-07T22:52:49.743Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:52:49.766Z [INFO]: Server is running on port 8000
+2025-03-07T22:52:49.776Z [INFO]: MongoDB connected successfully
+2025-03-07T22:52:55.287Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:52:55.308Z [INFO]: Server is running on port 8000
+2025-03-07T22:52:55.319Z [INFO]: MongoDB connected successfully
+2025-03-07T22:53:11.702Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:53:11.731Z [INFO]: Server is running on port 8000
+2025-03-07T22:53:11.744Z [INFO]: MongoDB connected successfully
+2025-03-07T22:53:16.885Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:53:16.907Z [INFO]: Server is running on port 8000
+2025-03-07T22:53:16.917Z [INFO]: MongoDB connected successfully
+2025-03-07T22:56:11.424Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:56:11.444Z [INFO]: Server is running on port 8000
+2025-03-07T22:56:11.454Z [INFO]: MongoDB connected successfully
+2025-03-07T22:56:20.800Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:56:20.823Z [INFO]: Server is running on port 8000
+2025-03-07T22:56:20.833Z [INFO]: MongoDB connected successfully
+2025-03-07T22:57:46.290Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:57:46.310Z [INFO]: Server is running on port 8000
+2025-03-07T22:57:46.320Z [INFO]: MongoDB connected successfully
+2025-03-07T22:58:47.872Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T22:58:47.894Z [INFO]: Server is running on port 8000
+2025-03-07T22:58:47.911Z [INFO]: MongoDB connected successfully
+2025-03-07T23:01:52.892Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T23:01:52.915Z [INFO]: Server is running on port 8000
+2025-03-07T23:01:52.927Z [INFO]: MongoDB connected successfully
+2025-03-07T23:03:00.664Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T23:03:00.688Z [INFO]: Server is running on port 8000
+2025-03-07T23:03:00.698Z [INFO]: MongoDB connected successfully
+2025-03-07T23:07:10.436Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T23:07:10.458Z [INFO]: Server is running on port 8000
+2025-03-07T23:07:10.469Z [INFO]: MongoDB connected successfully
+2025-03-07T23:11:44.836Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-07T23:11:44.855Z [INFO]: Server is running on port 8000
+2025-03-07T23:11:44.866Z [INFO]: MongoDB connected successfully
+2025-03-08T10:20:03.503Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T10:20:03.551Z [INFO]: Server is running on port 8000
+2025-03-08T10:20:03.585Z [INFO]: MongoDB connected successfully
+2025-03-08T10:28:56.827Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T10:28:56.848Z [INFO]: Server is running on port 8000
+2025-03-08T10:28:56.860Z [INFO]: MongoDB connected successfully
+2025-03-08T10:49:55.041Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T10:49:55.064Z [INFO]: Server is running on port 8000
+2025-03-08T10:49:55.076Z [INFO]: MongoDB connected successfully
+2025-03-08T10:57:21.069Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T10:57:21.093Z [INFO]: Server is running on port 8000
+2025-03-08T10:57:21.103Z [INFO]: MongoDB connected successfully
+2025-03-08T11:26:13.582Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T11:26:13.609Z [INFO]: Server is running on port 8000
+2025-03-08T11:26:13.620Z [INFO]: MongoDB connected successfully
+2025-03-08T16:03:57.308Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T16:03:57.326Z [INFO]: Server is running on port 8000
+2025-03-08T16:03:57.344Z [INFO]: MongoDB connected successfully
+2025-03-08T16:13:28.168Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T16:13:28.191Z [INFO]: Server is running on port 8000
+2025-03-08T16:13:28.205Z [INFO]: MongoDB connected successfully
+2025-03-08T16:16:00.351Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T16:16:00.368Z [INFO]: Server is running on port 8000
+2025-03-08T16:16:00.379Z [INFO]: MongoDB connected successfully
+2025-03-08T16:16:04.590Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T16:16:04.610Z [INFO]: Server is running on port 8000
+2025-03-08T16:16:04.621Z [INFO]: MongoDB connected successfully
+2025-03-08T16:16:10.795Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T16:16:10.814Z [INFO]: Server is running on port 8000
+2025-03-08T16:16:10.826Z [INFO]: MongoDB connected successfully
+2025-03-08T16:16:15.898Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T16:16:15.919Z [INFO]: Server is running on port 8000
+2025-03-08T16:16:15.929Z [INFO]: MongoDB connected successfully
+2025-03-08T16:16:35.668Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T16:16:35.685Z [INFO]: Server is running on port 8000
+2025-03-08T16:16:35.696Z [INFO]: MongoDB connected successfully
+2025-03-08T16:17:36.180Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T16:17:36.201Z [INFO]: Server is running on port 8000
+2025-03-08T16:17:36.213Z [INFO]: MongoDB connected successfully
+2025-03-08T16:17:38.464Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T16:17:38.483Z [INFO]: Server is running on port 8000
+2025-03-08T16:17:38.496Z [INFO]: MongoDB connected successfully
+2025-03-08T16:20:14.172Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T16:20:14.190Z [INFO]: Server is running on port 8000
+2025-03-08T16:20:14.202Z [INFO]: MongoDB connected successfully
+2025-03-08T16:20:59.798Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T16:20:59.816Z [INFO]: Server is running on port 8000
+2025-03-08T16:20:59.827Z [INFO]: MongoDB connected successfully
+2025-03-08T16:29:26.880Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T16:29:26.899Z [INFO]: Server is running on port 8000
+2025-03-08T16:29:26.909Z [INFO]: MongoDB connected successfully
+2025-03-08T16:29:48.364Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T16:29:48.386Z [INFO]: Server is running on port 8000
+2025-03-08T16:29:48.399Z [INFO]: MongoDB connected successfully
+2025-03-08T16:30:34.162Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T16:30:34.186Z [INFO]: Server is running on port 8000
+2025-03-08T16:30:34.195Z [INFO]: MongoDB connected successfully
+2025-03-08T16:38:18.615Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T16:38:18.635Z [INFO]: Server is running on port 8000
+2025-03-08T16:38:18.646Z [INFO]: MongoDB connected successfully
+2025-03-08T16:38:41.729Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T16:38:41.746Z [INFO]: Server is running on port 8000
+2025-03-08T16:38:41.756Z [INFO]: MongoDB connected successfully
+2025-03-08T16:38:48.632Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T16:38:48.653Z [INFO]: Server is running on port 8000
+2025-03-08T16:38:48.662Z [INFO]: MongoDB connected successfully
+2025-03-08T16:48:07.854Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T16:48:07.877Z [INFO]: Server is running on port 8000
+2025-03-08T16:48:07.889Z [INFO]: MongoDB connected successfully
+2025-03-08T17:05:44.694Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T17:05:44.724Z [INFO]: Server is running on port 8000
+2025-03-08T17:05:44.737Z [INFO]: MongoDB connected successfully
+2025-03-08T17:08:49.685Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T17:08:49.710Z [INFO]: Server is running on port 8000
+2025-03-08T17:08:49.723Z [INFO]: MongoDB connected successfully
+2025-03-08T17:10:16.779Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T17:10:16.800Z [INFO]: Server is running on port 8000
+2025-03-08T17:10:16.812Z [INFO]: MongoDB connected successfully
+2025-03-08T17:10:50.695Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T17:10:50.717Z [INFO]: Server is running on port 8000
+2025-03-08T17:10:50.729Z [INFO]: MongoDB connected successfully
+2025-03-08T17:10:56.428Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T17:10:56.448Z [INFO]: Server is running on port 8000
+2025-03-08T17:10:56.459Z [INFO]: MongoDB connected successfully
+2025-03-08T17:46:26.285Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T17:46:26.311Z [INFO]: Server is running on port 8000
+2025-03-08T17:46:26.321Z [INFO]: MongoDB connected successfully
+2025-03-08T17:47:01.003Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T17:47:01.027Z [INFO]: Server is running on port 8000
+2025-03-08T17:47:01.039Z [INFO]: MongoDB connected successfully
+2025-03-08T17:47:42.854Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T17:47:42.882Z [INFO]: Server is running on port 8000
+2025-03-08T17:47:42.892Z [INFO]: MongoDB connected successfully
+2025-03-08T17:48:31.664Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T17:48:31.690Z [INFO]: Server is running on port 8000
+2025-03-08T17:48:31.703Z [INFO]: MongoDB connected successfully
+2025-03-08T17:48:47.909Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T17:48:47.929Z [INFO]: Server is running on port 8000
+2025-03-08T17:48:47.939Z [INFO]: MongoDB connected successfully
+2025-03-08T17:49:26.002Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T17:49:26.028Z [INFO]: Server is running on port 8000
+2025-03-08T17:49:26.042Z [INFO]: MongoDB connected successfully
+2025-03-08T17:49:49.695Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T17:49:49.717Z [INFO]: Server is running on port 8000
+2025-03-08T17:49:49.730Z [INFO]: MongoDB connected successfully
+2025-03-08T17:50:03.920Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T17:50:03.942Z [INFO]: Server is running on port 8000
+2025-03-08T17:50:03.953Z [INFO]: MongoDB connected successfully
+2025-03-08T17:50:20.581Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T17:50:20.603Z [INFO]: Server is running on port 8000
+2025-03-08T17:50:20.614Z [INFO]: MongoDB connected successfully
+2025-03-08T17:50:36.300Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T17:50:36.320Z [INFO]: Server is running on port 8000
+2025-03-08T17:50:36.332Z [INFO]: MongoDB connected successfully
+2025-03-08T17:51:36.026Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T17:51:36.046Z [INFO]: Server is running on port 8000
+2025-03-08T17:51:36.058Z [INFO]: MongoDB connected successfully
+2025-03-08T17:56:41.314Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T17:56:41.337Z [INFO]: Server is running on port 8000
+2025-03-08T17:56:41.349Z [INFO]: MongoDB connected successfully
+2025-03-08T17:58:10.796Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T17:58:10.817Z [INFO]: Server is running on port 8000
+2025-03-08T17:58:10.828Z [INFO]: MongoDB connected successfully
+2025-03-08T17:59:14.072Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-08T17:59:14.094Z [INFO]: Server is running on port 8000
+2025-03-08T17:59:14.106Z [INFO]: MongoDB connected successfully
+2025-03-09T17:20:16.057Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-09T17:20:16.082Z [INFO]: Server is running on port 8000
+2025-03-09T17:20:16.102Z [INFO]: MongoDB connected successfully
+2025-03-09T17:47:53.949Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-09T17:47:53.970Z [INFO]: Server is running on port 8000
+2025-03-09T17:47:53.982Z [INFO]: MongoDB connected successfully
+2025-03-09T17:48:48.951Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-09T17:48:48.977Z [INFO]: Server is running on port 8000
+2025-03-09T17:48:48.988Z [INFO]: MongoDB connected successfully
+2025-03-09T17:49:50.798Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-09T17:49:50.824Z [INFO]: Server is running on port 8000
+2025-03-09T17:49:50.843Z [INFO]: MongoDB connected successfully
+2025-03-09T17:50:21.089Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-09T17:50:21.112Z [INFO]: Server is running on port 8000
+2025-03-09T17:50:21.122Z [INFO]: MongoDB connected successfully
+2025-03-09T17:51:00.997Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-09T17:51:01.025Z [INFO]: Server is running on port 8000
+2025-03-09T17:51:01.035Z [INFO]: MongoDB connected successfully
+2025-03-09T17:51:07.781Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-09T17:51:07.801Z [INFO]: Server is running on port 8000
+2025-03-09T17:51:07.814Z [INFO]: MongoDB connected successfully
+2025-03-09T17:51:33.803Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-09T17:51:33.825Z [INFO]: Server is running on port 8000
+2025-03-09T17:51:33.837Z [INFO]: MongoDB connected successfully
+2025-03-09T17:52:08.092Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-09T17:52:08.115Z [INFO]: Server is running on port 8000
+2025-03-09T17:52:08.125Z [INFO]: MongoDB connected successfully
+2025-03-09T17:53:22.943Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-09T17:53:22.966Z [INFO]: Server is running on port 8000
+2025-03-09T17:53:22.980Z [INFO]: MongoDB connected successfully
+2025-03-09T18:05:26.064Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-09T18:05:26.087Z [INFO]: Server is running on port 8000
+2025-03-09T18:05:26.099Z [INFO]: MongoDB connected successfully
+2025-03-09T18:39:17.170Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-09T18:39:17.190Z [INFO]: Server is running on port 8000
+2025-03-09T18:39:17.202Z [INFO]: MongoDB connected successfully
+2025-03-09T18:39:22.907Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-09T18:39:22.930Z [INFO]: Server is running on port 8000
+2025-03-09T18:39:22.940Z [INFO]: MongoDB connected successfully
+2025-03-09T18:39:32.744Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-09T18:39:32.771Z [INFO]: Server is running on port 8000
+2025-03-09T18:39:32.783Z [INFO]: MongoDB connected successfully
+2025-03-09T18:41:22.110Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-09T18:41:22.130Z [INFO]: Server is running on port 8000
+2025-03-09T18:41:22.140Z [INFO]: MongoDB connected successfully
+2025-03-09T18:42:58.882Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-09T18:42:58.901Z [INFO]: Server is running on port 8000
+2025-03-09T18:42:58.912Z [INFO]: MongoDB connected successfully
+2025-03-09T18:43:02.121Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-09T18:43:02.142Z [INFO]: Server is running on port 8000
+2025-03-09T18:43:02.152Z [INFO]: MongoDB connected successfully
+2025-03-09T18:43:41.418Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-09T18:43:41.441Z [INFO]: Server is running on port 8000
+2025-03-09T18:43:41.454Z [INFO]: MongoDB connected successfully
+2025-03-09T18:44:08.087Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-09T18:44:08.109Z [INFO]: Server is running on port 8000
+2025-03-09T18:44:08.121Z [INFO]: MongoDB connected successfully
+2025-03-09T18:46:19.064Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-09T18:46:19.083Z [INFO]: Server is running on port 8000
+2025-03-09T18:46:19.094Z [INFO]: MongoDB connected successfully
+2025-03-09T18:46:40.880Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-09T18:46:40.902Z [INFO]: Server is running on port 8000
+2025-03-09T18:46:40.915Z [INFO]: MongoDB connected successfully
+2025-03-09T18:46:51.702Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-09T18:46:51.723Z [INFO]: Server is running on port 8000
+2025-03-09T18:46:51.733Z [INFO]: MongoDB connected successfully
+2025-03-09T18:47:05.245Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-09T18:47:05.267Z [INFO]: Server is running on port 8000
+2025-03-09T18:47:05.277Z [INFO]: MongoDB connected successfully
+2025-03-10T14:27:59.265Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-10T14:27:59.299Z [INFO]: Server is running on port 8000
+2025-03-10T14:27:59.321Z [INFO]: MongoDB connected successfully
+2025-03-10T14:39:31.243Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-10T14:39:31.262Z [INFO]: Server is running on port 8000
+2025-03-10T14:39:31.273Z [INFO]: MongoDB connected successfully
+2025-03-10T14:39:39.175Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-10T14:39:39.194Z [INFO]: Server is running on port 8000
+2025-03-10T14:39:39.206Z [INFO]: MongoDB connected successfully
+2025-03-10T14:45:03.073Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-10T14:45:03.096Z [INFO]: Server is running on port 8000
+2025-03-10T14:45:03.109Z [INFO]: MongoDB connected successfully
+2025-03-10T14:53:34.361Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-10T14:53:34.382Z [INFO]: Server is running on port 8000
+2025-03-10T14:53:34.393Z [INFO]: MongoDB connected successfully
+2025-03-10T14:54:00.401Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-10T14:54:00.422Z [INFO]: Server is running on port 8000
+2025-03-10T14:54:00.435Z [INFO]: MongoDB connected successfully
+2025-03-10T14:54:51.448Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-10T14:54:51.474Z [INFO]: Server is running on port 8000
+2025-03-10T14:54:51.490Z [INFO]: MongoDB connected successfully
+2025-03-10T15:31:25.609Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-10T15:31:25.638Z [INFO]: Server is running on port 8000
+2025-03-10T15:31:25.656Z [INFO]: MongoDB connected successfully
+2025-03-10T15:40:35.665Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-10T15:40:35.688Z [INFO]: Server is running on port 8000
+2025-03-10T15:40:35.704Z [INFO]: MongoDB connected successfully
+2025-03-10T15:50:30.170Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-10T15:50:30.190Z [INFO]: Server is running on port 8000
+2025-03-10T15:50:30.201Z [INFO]: MongoDB connected successfully
+2025-03-10T15:53:39.693Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-10T15:53:39.713Z [INFO]: Server is running on port 8000
+2025-03-10T15:53:39.725Z [INFO]: MongoDB connected successfully
+2025-03-10T16:44:41.192Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-10T16:44:41.213Z [INFO]: Server is running on port 8000
+2025-03-10T16:44:41.224Z [INFO]: MongoDB connected successfully
+2025-03-10T16:54:16.321Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-10T16:54:16.346Z [INFO]: Server is running on port 8000
+2025-03-10T16:54:16.366Z [INFO]: MongoDB connected successfully
+2025-03-10T16:55:12.099Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-10T16:55:12.125Z [INFO]: Server is running on port 8000
+2025-03-10T16:55:12.141Z [INFO]: MongoDB connected successfully
+2025-03-10T16:55:50.137Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-10T16:55:50.165Z [INFO]: Server is running on port 8000
+2025-03-10T16:55:50.178Z [INFO]: MongoDB connected successfully
+2025-03-10T16:55:51.072Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-10T16:55:51.094Z [INFO]: Server is running on port 8000
+2025-03-10T16:55:51.105Z [INFO]: MongoDB connected successfully
+2025-03-10T16:56:43.274Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-10T16:56:43.295Z [INFO]: Server is running on port 8000
+2025-03-10T16:56:43.306Z [INFO]: MongoDB connected successfully
+2025-03-10T16:58:51.428Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-10T16:58:51.449Z [INFO]: Server is running on port 8000
+2025-03-10T16:58:51.461Z [INFO]: MongoDB connected successfully
+2025-03-10T17:03:29.706Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-10T17:03:29.730Z [INFO]: Server is running on port 8000
+2025-03-10T17:03:29.741Z [INFO]: MongoDB connected successfully
+2025-03-10T17:04:46.274Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-03-10T17:04:46.295Z [INFO]: Server is running on port 8000
+2025-03-10T17:04:46.306Z [INFO]: MongoDB connected successfully
+2025-04-03T00:54:01.177Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-03T00:54:01.209Z [INFO]: Server is running on port 8000
+2025-04-03T00:54:01.245Z [INFO]: MongoDB connected successfully
+2025-04-07T02:30:56.804Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-07T02:30:56.828Z [INFO]: Server is running on port 8000
+2025-04-07T02:30:56.850Z [INFO]: MongoDB connected successfully
+2025-04-07T02:34:09.922Z [INFO]: Super Admin logged in
+2025-04-07T03:08:53.734Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-07T03:08:53.756Z [INFO]: Server is running on port 8000
+2025-04-07T03:08:53.772Z [INFO]: MongoDB connected successfully
+2025-04-07T03:16:50.007Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-07T03:16:50.028Z [INFO]: Server is running on port 8000
+2025-04-07T03:16:50.040Z [INFO]: MongoDB connected successfully
+2025-04-07T03:16:54.491Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-07T03:16:54.514Z [INFO]: Server is running on port 8000
+2025-04-07T03:16:54.525Z [INFO]: MongoDB connected successfully
+2025-04-07T03:17:40.836Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-07T03:17:40.863Z [INFO]: Server is running on port 8000
+2025-04-07T03:17:40.876Z [INFO]: MongoDB connected successfully
+2025-04-07T03:17:51.193Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-07T03:17:51.216Z [INFO]: Server is running on port 8000
+2025-04-07T03:17:51.228Z [INFO]: MongoDB connected successfully
+2025-04-07T03:18:02.452Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-07T03:18:02.476Z [INFO]: Server is running on port 8000
+2025-04-07T03:18:02.488Z [INFO]: MongoDB connected successfully
+2025-04-07T03:29:46.880Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-07T03:29:46.906Z [INFO]: Server is running on port 8000
+2025-04-07T03:29:46.931Z [INFO]: MongoDB connected successfully
+2025-04-07T09:12:47.563Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-07T09:12:47.583Z [INFO]: Server is running on port 8000
+2025-04-07T09:12:47.597Z [INFO]: MongoDB connected successfully
+2025-04-07T09:18:11.828Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-07T09:18:11.852Z [INFO]: Server is running on port 8000
+2025-04-07T09:18:11.866Z [INFO]: MongoDB connected successfully
+2025-04-07T09:18:24.188Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-07T09:18:24.208Z [INFO]: Server is running on port 8000
+2025-04-07T09:18:24.219Z [INFO]: MongoDB connected successfully
+2025-04-07T09:23:53.078Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-07T09:23:53.098Z [INFO]: Server is running on port 8000
+2025-04-07T09:23:53.108Z [INFO]: MongoDB connected successfully
+2025-04-08T00:07:26.195Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-08T00:07:26.222Z [INFO]: Server is running on port 8000
+2025-04-08T00:07:26.236Z [INFO]: MongoDB connected successfully
+2025-04-08T00:09:23.320Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-08T00:09:23.343Z [INFO]: Server is running on port 8000
+2025-04-08T00:09:23.356Z [INFO]: MongoDB connected successfully
+2025-04-09T02:35:24.071Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-09T02:35:24.101Z [INFO]: Server is running on port 8000
+2025-04-09T02:35:24.117Z [INFO]: MongoDB connected successfully
+2025-04-09T03:15:29.745Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-09T03:15:29.770Z [INFO]: Server is running on port 8000
+2025-04-09T03:15:29.785Z [INFO]: MongoDB connected successfully
+2025-04-09T03:19:11.664Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-09T03:19:11.686Z [INFO]: Server is running on port 8000
+2025-04-09T03:19:11.697Z [INFO]: MongoDB connected successfully
+2025-04-09T03:19:41.544Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-09T03:19:41.563Z [INFO]: Server is running on port 8000
+2025-04-09T03:19:41.573Z [INFO]: MongoDB connected successfully
+2025-04-09T03:26:25.004Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-09T03:26:25.024Z [INFO]: Server is running on port 8000
+2025-04-09T03:26:25.035Z [INFO]: MongoDB connected successfully
+2025-04-10T11:45:29.123Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-10T11:45:29.145Z [INFO]: Server is running on port 8000
+2025-04-10T11:45:29.158Z [INFO]: MongoDB connected successfully
+2025-04-15T07:50:23.834Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T07:50:23.860Z [INFO]: Server is running on port 8000
+2025-04-15T07:50:23.890Z [INFO]: MongoDB connected successfully
+2025-04-15T08:00:40.985Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T08:00:41.004Z [INFO]: Server is running on port 8000
+2025-04-15T08:00:41.016Z [INFO]: MongoDB connected successfully
+2025-04-15T08:00:44.981Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T08:00:45.002Z [INFO]: Server is running on port 8000
+2025-04-15T08:00:45.013Z [INFO]: MongoDB connected successfully
+2025-04-15T08:01:27.913Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T08:01:27.933Z [INFO]: Server is running on port 8000
+2025-04-15T08:01:27.945Z [INFO]: MongoDB connected successfully
+2025-04-15T08:08:09.464Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T08:08:09.487Z [INFO]: Server is running on port 8000
+2025-04-15T08:08:09.501Z [INFO]: MongoDB connected successfully
+2025-04-15T08:14:24.971Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T08:14:25.001Z [INFO]: Server is running on port 8000
+2025-04-15T08:14:25.015Z [INFO]: MongoDB connected successfully
+2025-04-15T08:15:04.476Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T08:15:04.500Z [INFO]: Server is running on port 8000
+2025-04-15T08:15:04.513Z [INFO]: MongoDB connected successfully
+2025-04-15T08:15:14.191Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T08:15:14.218Z [INFO]: Server is running on port 8000
+2025-04-15T08:15:14.232Z [INFO]: MongoDB connected successfully
+2025-04-15T08:16:37.134Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T08:16:37.154Z [INFO]: Server is running on port 8000
+2025-04-15T08:16:37.166Z [INFO]: MongoDB connected successfully
+2025-04-15T08:19:03.183Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T08:19:03.208Z [INFO]: Server is running on port 8000
+2025-04-15T08:19:03.219Z [INFO]: MongoDB connected successfully
+2025-04-15T08:19:37.559Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T08:19:37.579Z [INFO]: Server is running on port 8000
+2025-04-15T08:19:37.591Z [INFO]: MongoDB connected successfully
+2025-04-15T08:20:58.713Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T08:20:58.732Z [INFO]: Server is running on port 8000
+2025-04-15T08:20:58.748Z [INFO]: MongoDB connected successfully
+2025-04-15T08:25:25.489Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T08:25:25.518Z [INFO]: Server is running on port 8000
+2025-04-15T08:25:25.531Z [INFO]: MongoDB connected successfully
+2025-04-15T08:25:28.039Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T08:25:28.073Z [INFO]: Server is running on port 8000
+2025-04-15T08:25:28.091Z [INFO]: MongoDB connected successfully
+2025-04-15T08:28:46.613Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T08:28:46.643Z [INFO]: Server is running on port 8000
+2025-04-15T08:28:46.653Z [INFO]: MongoDB connected successfully
+2025-04-15T09:47:16.386Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T09:47:16.416Z [INFO]: Server is running on port 8000
+2025-04-15T09:47:16.429Z [INFO]: MongoDB connected successfully
+2025-04-15T09:49:10.129Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T09:49:10.152Z [INFO]: Server is running on port 8000
+2025-04-15T09:49:10.163Z [INFO]: MongoDB connected successfully
+2025-04-15T09:49:15.454Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T09:49:15.474Z [INFO]: Server is running on port 8000
+2025-04-15T09:49:15.485Z [INFO]: MongoDB connected successfully
+2025-04-15T09:49:39.931Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T09:49:39.951Z [INFO]: Server is running on port 8000
+2025-04-15T09:49:39.961Z [INFO]: MongoDB connected successfully
+2025-04-15T09:50:20.783Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T09:50:20.801Z [INFO]: Server is running on port 8000
+2025-04-15T09:50:20.811Z [INFO]: MongoDB connected successfully
+2025-04-15T09:50:44.743Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T09:50:44.770Z [INFO]: Server is running on port 8000
+2025-04-15T09:50:44.784Z [INFO]: MongoDB connected successfully
+2025-04-15T10:56:46.589Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T10:56:46.611Z [INFO]: Server is running on port 8000
+2025-04-15T10:56:46.623Z [INFO]: MongoDB connected successfully
+2025-04-15T12:16:34.688Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T12:16:34.708Z [INFO]: Server is running on port 8000
+2025-04-15T12:16:34.724Z [INFO]: MongoDB connected successfully
+2025-04-15T12:16:57.688Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T12:16:57.714Z [INFO]: Server is running on port 8000
+2025-04-15T12:16:57.726Z [INFO]: MongoDB connected successfully
+2025-04-15T12:18:13.464Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T12:18:13.486Z [INFO]: Server is running on port 8000
+2025-04-15T12:18:13.498Z [INFO]: MongoDB connected successfully
+2025-04-15T12:18:43.308Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T12:18:43.329Z [INFO]: Server is running on port 8000
+2025-04-15T12:18:43.342Z [INFO]: MongoDB connected successfully
+2025-04-15T12:19:47.325Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T12:19:47.347Z [INFO]: Server is running on port 8000
+2025-04-15T12:19:47.360Z [INFO]: MongoDB connected successfully
+2025-04-15T12:39:02.269Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T12:39:02.311Z [INFO]: Server is running on port 8000
+2025-04-15T12:39:02.333Z [INFO]: MongoDB connected successfully
+2025-04-15T12:39:44.378Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T12:39:44.402Z [INFO]: Server is running on port 8000
+2025-04-15T12:39:44.414Z [INFO]: MongoDB connected successfully
+2025-04-15T12:40:19.749Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T12:40:19.772Z [INFO]: Server is running on port 8000
+2025-04-15T12:40:19.787Z [INFO]: MongoDB connected successfully
+2025-04-15T12:45:07.054Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-15T12:45:07.084Z [INFO]: Server is running on port 8000
+2025-04-15T12:45:07.117Z [INFO]: MongoDB connected successfully
+2025-04-16T19:05:21.113Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-16T19:05:21.137Z [INFO]: Server is running on port 8000
+2025-04-16T19:05:21.161Z [INFO]: MongoDB connected successfully
+2025-04-16T19:14:55.279Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-16T19:14:55.301Z [INFO]: Server is running on port 8000
+2025-04-16T19:14:55.312Z [INFO]: MongoDB connected successfully
+2025-04-18T04:28:52.735Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-18T04:28:52.758Z [INFO]: Server is running on port 8000
+2025-04-18T04:28:52.768Z [INFO]: MongoDB connected successfully
+2025-04-18T04:29:38.695Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-18T04:29:38.722Z [INFO]: Server is running on port 8000
+2025-04-18T04:29:38.734Z [INFO]: MongoDB connected successfully
+2025-04-18T04:29:45.712Z [INFO]: User created: 6801d5391fccbcd609666b81
+2025-04-18T04:31:04.974Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-18T04:31:04.997Z [INFO]: Server is running on port 8000
+2025-04-18T04:31:05.010Z [INFO]: MongoDB connected successfully
+2025-04-18T04:31:47.927Z [INFO]: User created: 6801d5b3ecbe20fe34725cd3
+2025-04-18T04:32:15.442Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-18T04:32:15.463Z [INFO]: Server is running on port 8000
+2025-04-18T04:32:15.474Z [INFO]: MongoDB connected successfully
+2025-04-18T04:32:42.566Z [INFO]: User created: 6801d5eab2fe8642c24ad431
+2025-04-18T04:44:05.991Z [INFO]: User created: 6801d895b2fe8642c24ad438
+2025-04-18T04:44:53.125Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-18T04:44:53.146Z [INFO]: Server is running on port 8000
+2025-04-18T04:44:53.159Z [INFO]: MongoDB connected successfully
+2025-04-18T04:59:15.967Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-18T04:59:15.988Z [INFO]: Server is running on port 8000
+2025-04-18T04:59:15.999Z [INFO]: MongoDB connected successfully
+2025-04-18T04:59:53.166Z [INFO]: User created: 6801dc49ca5c77373fa2c324
+2025-04-18T05:00:12.180Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-18T05:00:12.204Z [INFO]: Server is running on port 8000
+2025-04-18T05:00:12.218Z [INFO]: MongoDB connected successfully
+2025-04-18T05:00:22.360Z [INFO]: User created: 6801dc6648bc459b92f0963f
+2025-04-18T05:01:06.789Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-18T05:01:06.814Z [INFO]: Server is running on port 8000
+2025-04-18T05:01:06.825Z [INFO]: MongoDB connected successfully
+2025-04-18T05:01:17.062Z [INFO]: User created: 6801dc9de468677baca6a0fe
+2025-04-18T16:32:34.172Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-18T16:32:34.191Z [INFO]: Server is running on port 8000
+2025-04-18T16:32:34.204Z [INFO]: MongoDB connected successfully
+2025-04-18T16:32:46.872Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-18T16:32:46.894Z [INFO]: Server is running on port 8000
+2025-04-18T16:32:46.906Z [INFO]: MongoDB connected successfully
+2025-04-18T17:37:31.036Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-18T17:37:31.058Z [INFO]: Server is running on port 8000
+2025-04-18T17:37:31.068Z [INFO]: MongoDB connected successfully
+2025-04-18T17:39:28.846Z [INFO]: User created: 68028e50074cbe40611204f6
+2025-04-22T16:52:36.570Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-22T16:52:36.595Z [INFO]: Server is running on port 8000
+2025-04-22T16:52:36.612Z [INFO]: MongoDB connected successfully
+2025-04-22T17:23:39.174Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-22T17:23:39.195Z [INFO]: Server is running on port 8000
+2025-04-22T17:23:39.207Z [INFO]: MongoDB connected successfully
+2025-04-22T17:24:59.405Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-22T17:24:59.427Z [INFO]: Server is running on port 8000
+2025-04-22T17:24:59.439Z [INFO]: MongoDB connected successfully
+2025-04-22T17:28:12.554Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-22T17:28:12.577Z [INFO]: Server is running on port 8000
+2025-04-22T17:28:12.591Z [INFO]: MongoDB connected successfully
+2025-04-22T17:29:29.248Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-22T17:29:29.273Z [INFO]: Server is running on port 8000
+2025-04-22T17:29:29.288Z [INFO]: MongoDB connected successfully
+2025-04-23T15:28:59.828Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-23T15:28:59.865Z [INFO]: Server is running on port 8000
+2025-04-23T15:28:59.891Z [INFO]: MongoDB connected successfully
+2025-04-25T14:03:13.935Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-25T14:03:13.962Z [INFO]: Server is running on port 8000
+2025-04-25T14:03:13.991Z [INFO]: MongoDB connected successfully
+2025-04-26T15:20:11.459Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T15:20:11.471Z [INFO]: Server is running on port 8000
+2025-04-26T15:21:30.009Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T15:21:30.022Z [INFO]: Server is running on port 8000
+2025-04-26T15:21:30.027Z [INFO]: MongoDB connected successfully
+2025-04-26T15:25:53.166Z [INFO]: Super Admin logged in
+2025-04-26T18:37:28.600Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T18:37:28.614Z [INFO]: Server is running on port 8000
+2025-04-26T18:37:28.621Z [INFO]: MongoDB connected successfully
+2025-04-26T18:38:26.590Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T18:38:26.601Z [INFO]: Server is running on port 8000
+2025-04-26T18:38:26.607Z [INFO]: MongoDB connected successfully
+2025-04-26T18:46:24.097Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T18:46:24.108Z [INFO]: Server is running on port 8000
+2025-04-26T18:46:24.113Z [INFO]: MongoDB connected successfully
+2025-04-26T18:47:20.379Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T18:47:20.391Z [INFO]: Server is running on port 8000
+2025-04-26T18:47:20.397Z [INFO]: MongoDB connected successfully
+2025-04-26T18:47:32.572Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T18:47:32.585Z [INFO]: Server is running on port 8000
+2025-04-26T18:47:32.590Z [INFO]: MongoDB connected successfully
+2025-04-26T19:28:32.980Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T19:28:33.001Z [INFO]: Server is running on port 8000
+2025-04-26T19:28:33.008Z [INFO]: MongoDB connected successfully
+2025-04-26T19:30:44.134Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T19:30:44.146Z [INFO]: Server is running on port 8000
+2025-04-26T19:30:44.152Z [INFO]: MongoDB connected successfully
+2025-04-26T19:38:17.799Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T19:38:17.813Z [INFO]: Server is running on port 8000
+2025-04-26T19:38:17.828Z [INFO]: MongoDB connected successfully
+2025-04-26T19:40:01.752Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T19:40:01.766Z [INFO]: Server is running on port 8000
+2025-04-26T19:40:01.771Z [INFO]: MongoDB connected successfully
+2025-04-26T19:40:11.081Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T19:40:11.094Z [INFO]: Server is running on port 8000
+2025-04-26T19:40:11.099Z [INFO]: MongoDB connected successfully
+2025-04-26T19:40:27.500Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T19:40:27.513Z [INFO]: Server is running on port 8000
+2025-04-26T19:40:27.519Z [INFO]: MongoDB connected successfully
+2025-04-26T19:40:59.776Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T19:40:59.787Z [INFO]: Server is running on port 8000
+2025-04-26T19:40:59.793Z [INFO]: MongoDB connected successfully
+2025-04-26T19:41:31.167Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T19:41:31.179Z [INFO]: Server is running on port 8000
+2025-04-26T19:41:31.186Z [INFO]: MongoDB connected successfully
+2025-04-26T19:46:09.520Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T19:46:09.534Z [INFO]: Server is running on port 8000
+2025-04-26T19:46:09.540Z [INFO]: MongoDB connected successfully
+2025-04-26T19:46:17.951Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T19:46:17.965Z [INFO]: Server is running on port 8000
+2025-04-26T19:46:17.972Z [INFO]: MongoDB connected successfully
+2025-04-26T19:46:57.919Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T19:46:57.932Z [INFO]: Server is running on port 8000
+2025-04-26T19:46:57.938Z [INFO]: MongoDB connected successfully
+2025-04-26T19:47:06.794Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T19:47:06.806Z [INFO]: Server is running on port 8000
+2025-04-26T19:47:06.811Z [INFO]: MongoDB connected successfully
+2025-04-26T19:47:24.512Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T19:47:24.525Z [INFO]: Server is running on port 8000
+2025-04-26T19:47:24.608Z [INFO]: MongoDB connected successfully
+2025-04-26T19:49:02.506Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T19:49:02.518Z [INFO]: Server is running on port 8000
+2025-04-26T19:49:02.533Z [INFO]: MongoDB connected successfully
+2025-04-26T19:49:28.533Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T19:49:28.544Z [INFO]: Server is running on port 8000
+2025-04-26T19:49:28.550Z [INFO]: MongoDB connected successfully
+2025-04-26T19:50:00.749Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T19:50:00.761Z [INFO]: Server is running on port 8000
+2025-04-26T19:50:00.767Z [INFO]: MongoDB connected successfully
+2025-04-26T19:51:22.324Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T19:51:22.335Z [INFO]: Server is running on port 8000
+2025-04-26T19:51:22.341Z [INFO]: MongoDB connected successfully
+2025-04-26T19:51:29.969Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T19:51:29.981Z [INFO]: Server is running on port 8000
+2025-04-26T19:51:29.988Z [INFO]: MongoDB connected successfully
+2025-04-26T19:52:35.914Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T19:52:35.927Z [INFO]: Server is running on port 8000
+2025-04-26T19:52:35.932Z [INFO]: MongoDB connected successfully
+2025-04-26T19:56:27.222Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T19:56:27.235Z [INFO]: Server is running on port 8000
+2025-04-26T19:56:27.240Z [INFO]: MongoDB connected successfully
+2025-04-26T19:58:04.350Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T19:58:04.362Z [INFO]: Server is running on port 8000
+2025-04-26T19:58:04.368Z [INFO]: MongoDB connected successfully
+2025-04-26T20:01:00.371Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T20:01:00.387Z [INFO]: Server is running on port 8000
+2025-04-26T20:01:00.393Z [INFO]: MongoDB connected successfully
+2025-04-26T20:03:12.841Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T20:03:12.897Z [INFO]: Server is running on port 8000
+2025-04-26T20:03:12.908Z [INFO]: MongoDB connected successfully
+2025-04-26T20:03:24.891Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T20:03:24.902Z [INFO]: Server is running on port 8000
+2025-04-26T20:03:24.908Z [INFO]: MongoDB connected successfully
+2025-04-26T20:06:02.261Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T20:06:02.280Z [INFO]: Server is running on port 8000
+2025-04-26T20:06:02.286Z [INFO]: MongoDB connected successfully
+2025-04-26T20:07:39.062Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T20:07:39.074Z [INFO]: Server is running on port 8000
+2025-04-26T20:07:39.079Z [INFO]: MongoDB connected successfully
+2025-04-26T20:09:27.488Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T20:09:27.501Z [INFO]: Server is running on port 8000
+2025-04-26T20:09:27.507Z [INFO]: MongoDB connected successfully
+2025-04-26T20:14:19.892Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T20:14:19.912Z [INFO]: Server is running on port 8000
+2025-04-26T20:14:19.920Z [INFO]: MongoDB connected successfully
+2025-04-26T20:19:56.423Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T20:19:56.439Z [INFO]: Server is running on port 8000
+2025-04-26T20:19:56.445Z [INFO]: MongoDB connected successfully
+2025-04-26T20:20:27.054Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T20:20:27.067Z [INFO]: Server is running on port 8000
+2025-04-26T20:20:27.072Z [INFO]: MongoDB connected successfully
+2025-04-26T20:21:23.077Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T20:21:23.089Z [INFO]: Server is running on port 8000
+2025-04-26T20:21:23.094Z [INFO]: MongoDB connected successfully
+2025-04-26T20:22:52.920Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T20:22:52.931Z [INFO]: Server is running on port 8000
+2025-04-26T20:22:52.937Z [INFO]: MongoDB connected successfully
+2025-04-26T20:23:18.490Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T20:23:18.502Z [INFO]: Server is running on port 8000
+2025-04-26T20:23:18.515Z [INFO]: MongoDB connected successfully
+2025-04-26T20:29:57.670Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T20:29:57.681Z [INFO]: Server is running on port 8000
+2025-04-26T20:29:57.686Z [INFO]: MongoDB connected successfully
+2025-04-26T20:30:48.649Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T20:30:48.661Z [INFO]: Server is running on port 8000
+2025-04-26T20:30:48.667Z [INFO]: MongoDB connected successfully
+2025-04-26T20:31:24.226Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T20:31:24.239Z [INFO]: Server is running on port 8000
+2025-04-26T20:31:24.244Z [INFO]: MongoDB connected successfully
+2025-04-26T20:34:08.142Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T20:34:08.153Z [INFO]: Server is running on port 8000
+2025-04-26T20:34:08.159Z [INFO]: MongoDB connected successfully
+2025-04-26T20:35:18.203Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T20:35:18.215Z [INFO]: Server is running on port 8000
+2025-04-26T20:35:18.221Z [INFO]: MongoDB connected successfully
+2025-04-26T20:38:03.108Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T20:38:03.122Z [INFO]: Server is running on port 8000
+2025-04-26T20:38:03.129Z [INFO]: MongoDB connected successfully
+2025-04-26T20:57:12.144Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T20:57:12.164Z [INFO]: Server is running on port 8000
+2025-04-26T20:57:12.172Z [INFO]: MongoDB connected successfully
+2025-04-26T22:42:58.878Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T22:42:58.901Z [INFO]: Server is running on port 8000
+2025-04-26T22:42:58.908Z [INFO]: MongoDB connected successfully
+2025-04-26T22:48:11.002Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T22:48:11.014Z [INFO]: Server is running on port 8000
+2025-04-26T22:48:11.019Z [INFO]: MongoDB connected successfully
+2025-04-26T22:51:34.575Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T22:51:34.587Z [INFO]: Server is running on port 8000
+2025-04-26T22:51:34.592Z [INFO]: MongoDB connected successfully
+2025-04-26T22:51:39.089Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T22:51:39.101Z [INFO]: Server is running on port 8000
+2025-04-26T22:51:39.120Z [INFO]: MongoDB connected successfully
+2025-04-26T22:51:44.660Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T22:51:44.672Z [INFO]: Server is running on port 8000
+2025-04-26T22:51:44.678Z [INFO]: MongoDB connected successfully
+2025-04-26T23:01:04.500Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T23:01:04.512Z [INFO]: Server is running on port 8000
+2025-04-26T23:01:04.517Z [INFO]: MongoDB connected successfully
+2025-04-26T23:03:33.803Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-26T23:03:33.815Z [INFO]: Server is running on port 8000
+2025-04-26T23:03:33.820Z [INFO]: MongoDB connected successfully
+2025-04-27T03:47:14.525Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-27T03:47:14.538Z [INFO]: Server is running on port 8000
+2025-04-27T03:47:14.545Z [INFO]: MongoDB connected successfully
+2025-04-27T04:04:25.246Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-27T04:04:25.265Z [INFO]: Server is running on port 8000
+2025-04-27T04:04:25.272Z [INFO]: MongoDB connected successfully
+2025-04-27T04:41:46.020Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-27T04:41:46.038Z [INFO]: Server is running on port 8000
+2025-04-27T04:41:46.048Z [INFO]: MongoDB connected successfully
+2025-04-27T05:09:10.237Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-27T05:09:10.278Z [INFO]: Server is running on port 8000
+2025-04-27T05:09:10.287Z [INFO]: MongoDB connected successfully
+2025-04-27T05:11:16.922Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-27T05:11:16.935Z [INFO]: Server is running on port 8000
+2025-04-27T05:11:16.941Z [INFO]: MongoDB connected successfully
+2025-04-27T05:11:31.216Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-27T05:11:31.232Z [INFO]: Server is running on port 8000
+2025-04-27T05:11:31.239Z [INFO]: MongoDB connected successfully
+2025-04-27T05:12:59.929Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-27T05:12:59.940Z [INFO]: Server is running on port 8000
+2025-04-27T05:12:59.946Z [INFO]: MongoDB connected successfully
+2025-04-27T05:15:06.725Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-27T05:15:06.737Z [INFO]: Server is running on port 8000
+2025-04-27T05:15:06.743Z [INFO]: MongoDB connected successfully
+2025-04-27T05:15:56.417Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-27T05:15:56.436Z [INFO]: Server is running on port 8000
+2025-04-27T05:15:56.446Z [INFO]: MongoDB connected successfully
+2025-04-27T05:16:07.774Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-27T05:16:07.786Z [INFO]: Server is running on port 8000
+2025-04-27T05:16:07.792Z [INFO]: MongoDB connected successfully
+2025-04-27T05:19:25.312Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-27T05:19:25.324Z [INFO]: Server is running on port 8000
+2025-04-27T05:19:25.329Z [INFO]: MongoDB connected successfully
+2025-04-27T05:19:31.721Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-27T05:19:31.732Z [INFO]: Server is running on port 8000
+2025-04-27T05:19:31.747Z [INFO]: MongoDB connected successfully
+2025-04-27T05:20:20.926Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-27T05:20:20.937Z [INFO]: Server is running on port 8000
+2025-04-27T05:20:20.943Z [INFO]: MongoDB connected successfully
+2025-04-27T05:21:23.891Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-27T05:21:23.903Z [INFO]: Server is running on port 8000
+2025-04-27T05:21:23.908Z [INFO]: MongoDB connected successfully
+2025-04-27T05:38:43.906Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-27T05:38:43.918Z [INFO]: Server is running on port 8000
+2025-04-27T05:38:43.924Z [INFO]: MongoDB connected successfully
+2025-04-27T06:15:39.501Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-27T06:15:39.518Z [INFO]: Server is running on port 8000
+2025-04-27T06:15:39.523Z [INFO]: MongoDB connected successfully
+2025-04-27T06:16:34.590Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-27T06:16:34.602Z [INFO]: Server is running on port 8000
+2025-04-27T06:16:34.608Z [INFO]: MongoDB connected successfully
+2025-04-27T15:32:43.867Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-27T15:32:43.886Z [INFO]: Server is running on port 8000
+2025-04-27T15:32:43.902Z [INFO]: MongoDB connected successfully
+2025-04-28T16:28:30.926Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T16:28:30.944Z [INFO]: Server is running on port 8000
+2025-04-28T16:28:30.961Z [INFO]: MongoDB connected successfully
+2025-04-28T16:28:36.860Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T16:28:36.893Z [INFO]: Server is running on port 8000
+2025-04-28T16:28:36.916Z [INFO]: MongoDB connected successfully
+2025-04-28T16:29:56.333Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T16:29:56.358Z [INFO]: Server is running on port 8000
+2025-04-28T16:29:56.379Z [INFO]: MongoDB connected successfully
+2025-04-28T16:30:40.730Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T16:30:40.751Z [INFO]: Server is running on port 8000
+2025-04-28T16:30:40.766Z [INFO]: MongoDB connected successfully
+2025-04-28T16:30:58.177Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T16:30:58.197Z [INFO]: Server is running on port 8000
+2025-04-28T16:30:58.213Z [INFO]: MongoDB connected successfully
+2025-04-28T16:32:07.236Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T16:32:07.260Z [INFO]: Server is running on port 8000
+2025-04-28T16:32:07.284Z [INFO]: MongoDB connected successfully
+2025-04-28T16:35:40.421Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T16:35:40.447Z [INFO]: Server is running on port 8000
+2025-04-28T16:35:40.464Z [INFO]: MongoDB connected successfully
+2025-04-28T16:36:28.981Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T16:36:29.002Z [INFO]: Server is running on port 8000
+2025-04-28T16:36:29.023Z [INFO]: MongoDB connected successfully
+2025-04-28T16:36:54.303Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T16:36:54.328Z [INFO]: Server is running on port 8000
+2025-04-28T16:36:54.345Z [INFO]: MongoDB connected successfully
+2025-04-28T16:37:03.125Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T16:37:03.148Z [INFO]: Server is running on port 8000
+2025-04-28T16:37:03.180Z [INFO]: MongoDB connected successfully
+2025-04-28T17:19:43.767Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T17:19:43.795Z [INFO]: Server is running on port 8000
+2025-04-28T17:19:43.822Z [INFO]: MongoDB connected successfully
+2025-04-28T17:36:35.411Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T17:36:35.431Z [INFO]: Server is running on port 8000
+2025-04-28T17:36:35.443Z [INFO]: MongoDB connected successfully
+2025-04-28T17:38:00.823Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T17:38:00.845Z [INFO]: Server is running on port 8000
+2025-04-28T17:38:00.858Z [INFO]: MongoDB connected successfully
+2025-04-28T17:38:12.646Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T17:38:12.665Z [INFO]: Server is running on port 8000
+2025-04-28T17:38:12.678Z [INFO]: MongoDB connected successfully
+2025-04-28T17:39:34.108Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T17:39:34.129Z [INFO]: Server is running on port 8000
+2025-04-28T17:39:34.150Z [INFO]: MongoDB connected successfully
+2025-04-28T17:40:14.744Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T17:40:14.771Z [INFO]: Server is running on port 8000
+2025-04-28T17:40:14.797Z [INFO]: MongoDB connected successfully
+2025-04-28T17:40:16.544Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T17:40:16.576Z [INFO]: Server is running on port 8000
+2025-04-28T17:40:16.597Z [INFO]: MongoDB connected successfully
+2025-04-28T17:40:28.978Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T17:40:29.000Z [INFO]: Server is running on port 8000
+2025-04-28T17:40:29.014Z [INFO]: MongoDB connected successfully
+2025-04-28T17:43:10.507Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T17:43:10.526Z [INFO]: Server is running on port 8000
+2025-04-28T17:43:10.540Z [INFO]: MongoDB connected successfully
+2025-04-28T17:44:12.345Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T17:44:12.364Z [INFO]: Server is running on port 8000
+2025-04-28T17:44:12.384Z [INFO]: MongoDB connected successfully
+2025-04-28T17:44:59.651Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T17:44:59.670Z [INFO]: Server is running on port 8000
+2025-04-28T17:44:59.680Z [INFO]: MongoDB connected successfully
+2025-04-28T17:45:26.764Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T17:45:26.785Z [INFO]: Server is running on port 8000
+2025-04-28T17:45:26.799Z [INFO]: MongoDB connected successfully
+2025-04-28T17:48:15.119Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T17:48:15.140Z [INFO]: Server is running on port 8000
+2025-04-28T17:48:15.159Z [INFO]: MongoDB connected successfully
+2025-04-28T17:48:24.519Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T17:48:24.537Z [INFO]: Server is running on port 8000
+2025-04-28T17:48:24.555Z [INFO]: MongoDB connected successfully
+2025-04-28T17:48:53.778Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T17:48:53.799Z [INFO]: Server is running on port 8000
+2025-04-28T17:48:53.820Z [INFO]: MongoDB connected successfully
+2025-04-28T17:49:51.419Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T17:49:51.446Z [INFO]: Server is running on port 8000
+2025-04-28T17:49:51.461Z [INFO]: MongoDB connected successfully
+2025-04-28T18:11:31.308Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T18:11:31.330Z [INFO]: Server is running on port 8000
+2025-04-28T18:11:31.347Z [INFO]: MongoDB connected successfully
+2025-04-28T18:42:34.592Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T18:42:34.610Z [INFO]: Server is running on port 8000
+2025-04-28T18:42:34.625Z [INFO]: MongoDB connected successfully
+2025-04-28T18:43:45.764Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T18:43:45.782Z [INFO]: Server is running on port 8000
+2025-04-28T18:43:45.796Z [INFO]: MongoDB connected successfully
+2025-04-28T18:49:20.435Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T18:49:20.458Z [INFO]: Server is running on port 8000
+2025-04-28T18:49:20.478Z [INFO]: MongoDB connected successfully
+2025-04-28T18:50:51.322Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T18:50:51.342Z [INFO]: Server is running on port 8000
+2025-04-28T18:50:51.359Z [INFO]: MongoDB connected successfully
+2025-04-28T18:51:00.832Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T18:51:00.852Z [INFO]: Server is running on port 8000
+2025-04-28T18:51:00.871Z [INFO]: MongoDB connected successfully
+2025-04-28T18:51:05.737Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T18:51:05.768Z [INFO]: Server is running on port 8000
+2025-04-28T18:51:05.787Z [INFO]: MongoDB connected successfully
+2025-04-28T18:53:17.723Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T18:53:17.748Z [INFO]: Server is running on port 8000
+2025-04-28T18:53:17.765Z [INFO]: MongoDB connected successfully
+2025-04-28T18:56:06.536Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T18:56:06.561Z [INFO]: Server is running on port 8000
+2025-04-28T18:56:06.579Z [INFO]: MongoDB connected successfully
+2025-04-28T21:49:59.485Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-04-28T21:49:59.528Z [INFO]: Server is running on port 8000
+2025-04-28T21:49:59.551Z [INFO]: MongoDB connected successfully

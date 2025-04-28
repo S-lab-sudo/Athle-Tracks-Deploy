@@ -1,0 +1,37 @@
+{
+  "name": "my-node-express-app",
+  "version": "1.0.0",
+  "description": "A scalable Node.js and Express backend application with MongoDB.",
+  "main": "src/server.js",
+  "scripts": {
+    "start": "node src/server.js",
+    "dev": "nodemon src/server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cloudinary": "^2.6.0",
+    "cors": "^2.8.5",
+    "dotenv": "^8.6.0",
+    "express": "^4.17.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^8.12.0",
+    "multer": "^1.4.5-lts.1",
+    "streamifier": "^0.1.1",
+    "uuid": "^11.1.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "author": "Your Name",
+  "license": "ISC",
+  "directories": {
+    "src": {
+      "controllers": "src/controllers",
+      "middlewares": "src/middlewares",
+      "models": "src/models",
+      "routes": "src/routes",
+      "utils": "src/utils"
+    }
+  }
+}
