@@ -252,10 +252,52 @@ const getTournaments = async (req, res) => {
 const getTournamentById = async (req, res) => {
   try {
     const tournamentId = req.params.id;
-    const tournament = await TournamentModel.findById(tournamentId);
+    const tournament = await TournamentModel.findById(tournamentId)
+      .populate({
+        path: 'matches',
+        populate: [
+          {
+            path: 'team_1',
+            model: 'Team', // Ensure this matches your Team model name
+            select: 'team_details coach players', // Include team details, coach, and players
+            populate: {
+              path: 'players',
+              model: 'Player', // Populate players within the team
+              select: 'name jerseyNumber image', // Adjust fields as per your Player schema
+            },
+          },
+          {
+            path: 'team_2',
+            model: 'Team', // Ensure this matches your Team model name
+            select: 'team_details coach players', // Include team details, coach, and players
+            populate: {
+              path: 'players',
+              model: 'Player', // Populate players within the team
+              select: 'name jerseyNumber image', // Adjust fields as per your Player schema
+            },
+          },
+          {
+            path: 'player_stats.player_id',
+            model: 'Player', // Ensure this matches your Player model name
+            select: 'name jerseyNumber image', // Adjust fields as per your Player schema
+          },
+        ],
+      })
+      .populate({
+        path: 'teams',
+        model: 'Team', // Ensure this matches your Team model name
+        select: 'team_details coach players', // Include team details, coach, and players
+        populate: {
+          path: 'players',
+          model: 'Player', // Populate players within the team
+          select: 'name jerseyNumber image', // Adjust fields as per your Player schema
+        },
+      });
+
     if (!tournament) {
       return res.status(404).json({ message: 'Tournament not found' });
     }
+
     res.status(200).json(tournament);
   } catch (error) {
     console.log(error);

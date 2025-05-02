@@ -37,10 +37,36 @@ const getAllMatches = async (req, res) => {
 const getMatchById = async (req, res) => {
   try {
     const { id } = req.params;
-    const match = await MatchModel.findById(id).populate('team_1 team_2 tournament_id');
+
+    const match = await MatchModel.findById(id)
+      .populate({
+        path: 'team_1',
+        model: 'Team', // Ensure this matches your Team model name
+        populate: {
+          path: 'players',
+          model: 'Player', // Populate players within team_1
+          select: 'name jerseyNumber', // Adjust fields as per your Player schema
+        },
+      })
+      .populate({
+        path: 'team_2',
+        model: 'Team', // Ensure this matches your Team model name
+        populate: {
+          path: 'players',
+          model: 'Player', // Populate players within team_2
+          select: 'name jerseyNumber', // Adjust fields as per your Player schema
+        },
+      })
+      .populate({
+        path: 'tournament_id',
+        model: 'Tournament', // Ensure this matches your Tournament model name
+        select: 'name startDate endDate teams matches posterImage organizer prizePool location registeringStartDate league',
+      });
+
     if (!match) {
       return res.status(404).json({ message: 'Match not found' });
     }
+
     res.status(200).json(match);
   } catch (error) {
     console.log(error);

@@ -8,7 +8,7 @@ const matchHistorySchema = new mongoose.Schema({
   },
   tournament_id: {
     type: mongoose.Schema.Types.ObjectId,
-    ref: "Tournament2",
+    ref: "Tournament",
     required: true,
   },
   team_id: {

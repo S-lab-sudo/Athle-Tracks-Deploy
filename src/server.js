@@ -23,16 +23,34 @@ cloudinary.config({
   });
 
 
+// Add this before your routes
+app.set('trust proxy', true);  // Important for secure cookies/headers
+
+// Update CORS configuration
+app.use(cors({
+    origin: [
+        'https://athletracks.com',
+        'https://www.athletracks.com',
+        'http://localhost:5173',
+    ],
+    methods: ['GET', 'POST', 'PUT', 'DELETE'],
+    allowedHeaders: ['Content-Type', 'Authorization'],
+    credentials: true  // If using authentication
+}));
+
 
 // Middleware
 app.use("/public", express.static(path.join(__dirname, "public")));
 app.use(express.static(path.join(__dirname, 'dist')));
 app.use(express.json());
-app.use(cors({
-    origin: '*',
-    methods: ['GET', 'POST', 'PUT', 'DELETE'],
-    allowedHeaders: ['Content-Type', 'Authorization'],
-}));
+
+// Redirect HTTP to HTTPS
+app.use((req, res, next) => {
+    if (!req.secure && req.get('X-Forwarded-Proto') !== 'https') {
+        return res.redirect(`https://${req.get('Host')}${req.url}`);
+    }
+    next();
+});
 
 // Database connection
 const connectDB = async () => {
