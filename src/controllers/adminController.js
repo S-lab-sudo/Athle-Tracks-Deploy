@@ -8,6 +8,7 @@ const fs = require('fs');
 const login = async (req, res) => {
   try {
     const { email, password } = req.body;
+    console.log(email, password)
     const admin = await AdminModel.findOne({ email });
     if (!admin) {
       return res.status(404).json({ message: "Admin not found" });

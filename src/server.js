@@ -31,7 +31,6 @@ app.use(cors({
     origin: [
         'https://athletracks.com',
         'https://www.athletracks.com',
-        'http://localhost:5173',
     ],
     methods: ['GET', 'POST', 'PUT', 'DELETE'],
     allowedHeaders: ['Content-Type', 'Authorization'],
