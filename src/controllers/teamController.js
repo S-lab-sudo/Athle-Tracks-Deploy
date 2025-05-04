@@ -77,11 +77,11 @@ const addCoachDetails = async (req, res) => {
 
 const addSinglePlayerToTeam = async (req, res) => {
   try {
-    const { name, mobileNumber, currentTeam, height, weight, age,jerseyNumber } = req.body;
+    const { name, mobileNumber, currentTeam, jerseyNumber,age,height,weight } = req.body;
     const playerImage = req.files.image ? req.files.image[0] : null;
     const playerDocument = req.files.document ? req.files.document[0] : null;
 
-    if (!name || !mobileNumber || !currentTeam || !height || !weight || !age || !playerImage || !playerDocument) {
+    if (!name || !mobileNumber || !currentTeam || !playerImage || !playerDocument|| !jerseyNumber||!age || !height || !weight) {
       return res.status(400).json({ message: 'All fields are required' });
     }
 

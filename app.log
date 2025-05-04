@@ -1978,3 +1978,48 @@
 2025-05-03T03:58:54.858Z [INFO]: Connecting to MongoDB with URI: mongodb+srv://athletrack:Korea123@cluster0.rgexj5j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
 2025-05-03T03:58:54.872Z [INFO]: Server is running on port 8000
 2025-05-03T03:58:56.163Z [INFO]: MongoDB connected successfully
+2025-05-04T03:28:52.200Z [INFO]: Connecting to MongoDB with URI: mongodb+srv://athletrack:Korea123@cluster0.rgexj5j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-05-04T03:28:52.219Z [INFO]: Server is running on port 8000
+2025-05-04T03:28:52.864Z [INFO]: MongoDB connected successfully
+2025-05-04T03:31:53.946Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-05-04T03:31:53.980Z [INFO]: Server is running on port 8000
+2025-05-04T03:31:54.042Z [INFO]: MongoDB connected successfully
+2025-05-04T03:46:34.803Z [INFO]: Connecting to MongoDB with URI: mongodb://localhost:27017/athletrack
+2025-05-04T03:46:34.825Z [INFO]: Server is running on port 8000
+2025-05-04T03:46:34.840Z [INFO]: MongoDB connected successfully
+2025-05-04T03:48:10.463Z [INFO]: Connecting to MongoDB with URI: mongodb+srv://athletrack:Korea123@cluster0.rgexj5j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-05-04T03:48:10.476Z [INFO]: Server is running on port 8000
+2025-05-04T03:48:11.096Z [INFO]: MongoDB connected successfully
+2025-05-04T03:53:05.422Z [INFO]: Connecting to MongoDB with URI: mongodb+srv://athletrack:Korea123@cluster0.rgexj5j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-05-04T03:53:05.439Z [INFO]: Server is running on port 8000
+2025-05-04T03:53:06.037Z [INFO]: MongoDB connected successfully
+2025-05-04T03:59:55.383Z [INFO]: Connecting to MongoDB with URI: mongodb+srv://athletrack:Korea123@cluster0.rgexj5j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-05-04T03:59:55.406Z [INFO]: Server is running on port 8000
+2025-05-04T03:59:56.015Z [INFO]: MongoDB connected successfully
+2025-05-04T04:00:11.012Z [INFO]: Connecting to MongoDB with URI: mongodb+srv://athletrack:Korea123@cluster0.rgexj5j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-05-04T04:00:11.035Z [INFO]: Server is running on port 8000
+2025-05-04T04:00:11.599Z [INFO]: MongoDB connected successfully
+2025-05-04T04:00:25.277Z [INFO]: Connecting to MongoDB with URI: mongodb+srv://athletrack:Korea123@cluster0.rgexj5j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-05-04T04:00:25.304Z [INFO]: Server is running on port 8000
+2025-05-04T04:00:25.851Z [INFO]: MongoDB connected successfully
+2025-05-04T04:01:43.549Z [INFO]: Connecting to MongoDB with URI: mongodb+srv://athletrack:Korea123@cluster0.rgexj5j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-05-04T04:01:43.564Z [INFO]: Server is running on port 8000
+2025-05-04T04:01:44.195Z [INFO]: MongoDB connected successfully
+2025-05-04T04:06:50.569Z [INFO]: Connecting to MongoDB with URI: mongodb+srv://athletrack:Korea123@cluster0.rgexj5j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-05-04T04:06:50.588Z [INFO]: Server is running on port 8000
+2025-05-04T04:06:51.206Z [INFO]: MongoDB connected successfully
+2025-05-04T04:06:54.925Z [INFO]: Connecting to MongoDB with URI: mongodb+srv://athletrack:Korea123@cluster0.rgexj5j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-05-04T04:06:54.940Z [INFO]: Server is running on port 8000
+2025-05-04T04:06:55.477Z [INFO]: MongoDB connected successfully
+2025-05-04T04:13:41.358Z [INFO]: Connecting to MongoDB with URI: mongodb+srv://athletrack:Korea123@cluster0.rgexj5j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-05-04T04:13:41.376Z [INFO]: Server is running on port 8000
+2025-05-04T04:13:42.030Z [INFO]: MongoDB connected successfully
+2025-05-04T04:16:25.064Z [INFO]: Connecting to MongoDB with URI: mongodb+srv://athletrack:Korea123@cluster0.rgexj5j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-05-04T04:16:25.083Z [INFO]: Server is running on port 8000
+2025-05-04T04:16:25.698Z [INFO]: MongoDB connected successfully
+2025-05-04T04:19:42.709Z [INFO]: Connecting to MongoDB with URI: mongodb+srv://athletrack:Korea123@cluster0.rgexj5j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-05-04T04:19:42.724Z [INFO]: Server is running on port 8000
+2025-05-04T04:19:43.810Z [INFO]: MongoDB connected successfully
+2025-05-04T04:20:29.542Z [INFO]: Connecting to MongoDB with URI: mongodb+srv://athletrack:Korea123@cluster0.rgexj5j.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0
+2025-05-04T04:20:29.562Z [INFO]: Server is running on port 8000
+2025-05-04T04:20:30.108Z [INFO]: MongoDB connected successfully
