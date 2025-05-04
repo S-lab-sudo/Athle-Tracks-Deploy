@@ -51,6 +51,14 @@ const tournamentSchema = new mongoose.Schema({
         type: Date,
         required: true
     },
+    league:{
+        type: String,
+        required: true
+    },
+    registerable: {
+        type:String,
+        required: true
+    },
     teams: [{
         type: mongoose.Schema.Types.ObjectId,
         ref: 'Team'

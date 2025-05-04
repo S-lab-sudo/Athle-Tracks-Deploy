@@ -11,6 +11,11 @@ const playerStatsSchema = new mongoose.Schema({
         ref: 'Team',
         required: true
     },
+    notplayed: {
+        type: String,
+        required: true,
+        default:"DNP",
+    },
     points: {
         type: Number,
         required: true
@@ -58,6 +63,10 @@ const matchSchema = new mongoose.Schema({
     winner: {
         type: mongoose.Schema.Types.ObjectId,
         ref: 'Team',
+    },
+    mvp: {
+        type: mongoose.Schema.Types.ObjectId,
+        ref: 'Player',
     },
     player_stats: [playerStatsSchema],
     location: {

@@ -76,9 +76,9 @@ const createMatchAndSaveToTournament = async (req, res) => {
 
 const createTournament = async (req, res) => {
   try {
-    const { name, startDate, endDate, location, organizer, prizePool, registeringStartDate } = req.body;
+    const { name, startDate, endDate, location, organizer, prizePool, registeringStartDate,registerable,league } = req.body;
 
-    if (!name || !startDate || !endDate || !location || !organizer || !prizePool || !registeringStartDate) {
+    if (!name || !startDate || !endDate || !location || !organizer || !prizePool || !registeringStartDate,!registerable || !league) {
       return res.status(400).json({ message: 'All fields are required' });
     }
 
@@ -130,6 +130,8 @@ const createTournament = async (req, res) => {
         phoneNumber: organizer.phoneNumber
       },
       prizePool,
+      registerable,
+      league,
       registeringStartDate
     });
 

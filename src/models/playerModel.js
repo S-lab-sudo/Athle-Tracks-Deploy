@@ -28,6 +28,11 @@ const matchHistorySchema = new mongoose.Schema({
     type: Number,
     default:0
   },
+  notplayed: {
+    type: String,
+    default: "false",
+    required: true,
+  },
 });
 
 const playerSchema = new mongoose.Schema({

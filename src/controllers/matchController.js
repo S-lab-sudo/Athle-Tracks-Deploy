@@ -86,7 +86,7 @@ const updateMatch = async (req, res) => {
     // 2. Process players with simple increment/decrement
     const processTeam = async (players, teamId) => {
       for (const player of players) {
-        const { playerId, points = 0, assists = 0, rebounds = 0 } = player;
+        const { playerId, points = 0, assists = 0, rebounds = 0,notplayed } = player;
 
         // Update player totals
         const playerDoc = await PlayerModel.findById(playerId);
@@ -106,6 +106,7 @@ const updateMatch = async (req, res) => {
           history.points_scored += points;
           history.assists += assists;
           history.rebounds += rebounds;
+          history.notplayed=notplayed
         } else {
           playerDoc.match_history.push({
             match_id: matchId,
@@ -113,7 +114,8 @@ const updateMatch = async (req, res) => {
             team_id: teamId,
             points_scored: points,
             assists: assists,
-            rebounds: rebounds
+            rebounds: rebounds,
+            notplayed:notplayed
           });
         }
         await playerDoc.save();
@@ -128,6 +130,7 @@ const updateMatch = async (req, res) => {
           matchStat.points += points;
           matchStat.assists += assists;
           matchStat.rebounds += rebounds;
+          matchStat.notplayed=notplayed
         } else {
           // Create new stats entry
           match.player_stats.push({
@@ -135,7 +138,8 @@ const updateMatch = async (req, res) => {
             team_id: teamId,
             points: points,
             assists: assists,
-            rebounds: rebounds
+            rebounds: rebounds,
+            notplayed:notplayed
           });
         }
       }
@@ -144,6 +148,19 @@ const updateMatch = async (req, res) => {
     // 3. Process both teams
     await processTeam(team1Players, match.team_1);
     await processTeam(team2Players, match.team_2);
+
+    // make mvp and winner of the match where mvp is a single player with points + assists + rebounds divide by 3 and who has the highest it is the mvp
+    let mvp = null;
+    let maxMVPScore = -1;
+    match.player_stats.forEach(stat => {
+      const mvpScore = (stat.points + stat.assists + stat.rebounds) / 3;
+      if (mvpScore > maxMVPScore) {
+        maxMVPScore = mvpScore;
+        mvp = stat.player_id;
+      }
+    });
+    match.mvp = mvp;
+    match.winner = match.team_1_score > match.team_2_score ? match.team_1 : match.team_2;
 
     // 4. Save and return updated match
     await match.save();
