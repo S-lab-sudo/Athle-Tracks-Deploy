@@ -52,6 +52,8 @@ app.use((req, res, next) => {
     next();
 });
 
+console.log("running server")
+
 // Database connection
 const connectDB = async () => {
     try {
