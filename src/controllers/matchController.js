@@ -148,18 +148,6 @@ const updateMatch = async (req, res) => {
     // 3. Process both teams
     await processTeam(team1Players, match.team_1);
     await processTeam(team2Players, match.team_2);
-
-    // make mvp and winner of the match where mvp is a single player with points + assists + rebounds divide by 3 and who has the highest it is the mvp
-    let mvp = null;
-    let maxMVPScore = -1;
-    match.player_stats.forEach(stat => {
-      const mvpScore = (stat.points + stat.assists + stat.rebounds) / 3;
-      if (mvpScore > maxMVPScore) {
-        maxMVPScore = mvpScore;
-        mvp = stat.player_id;
-      }
-    });
-    match.mvp = mvp;
     match.winner = match.team_1_score > match.team_2_score ? match.team_1 : match.team_2;
 
     // 4. Save and return updated match
