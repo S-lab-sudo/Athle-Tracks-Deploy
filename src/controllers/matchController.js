@@ -111,6 +111,7 @@ const getMatchById = async (req, res) => {
       team2Score,
       player_stats: transformedStats,
     };
+    console.log(response)
 
     res.status(200).json(response);
   } catch (error) {
