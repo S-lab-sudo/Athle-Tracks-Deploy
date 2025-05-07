@@ -1,177 +1,226 @@
-const MatchModel = require('../models/matchModel');
-const TeamModel =require('../models/teamModel')
-const TournamentModel =require('../models/tournamentModel')
-const PlayerModel = require('../models/playerModel');
-// Get all matches
+const MatchModel = require("../models/matchModel");
+const TeamModel = require("../models/teamModel");
+const TournamentModel = require("../models/tournamentModel");
+const PlayerModel = require("../models/playerModel");
+
+// Get all matches (Optimized with population and projection)
 const getAllMatches = async (req, res) => {
   try {
-    const matches = await MatchModel.find();
+    const matches = await MatchModel.find()
+      .populate([
+        {
+          path: "team_1",
+          select: "team_details.name players",
+          populate: { path: "players", select: "name position" },
+        },
+        {
+          path: "team_2",
+          select: "team_details.name players",
+          populate: { path: "players", select: "name position" },
+        },
+        {
+          path: "tournament_id",
+          select: "name",
+        },
+      ])
+      .lean();
 
-    const matchDetails = await Promise.all(matches.map(async (match) => {
-      let team1 = await TeamModel.findById(match.team_1).populate('players');
-      let team2 = await TeamModel.findById(match.team_2).populate('players');
-      const tournament = await TournamentModel.findById(match.tournament_id);
-
-      return {
-        matchId: match._id,
-        date: match.date,
-        team1Id: match.team_1,
-        team2Id: match.team_2,
-        playerStats: match.player_stats,
-        team1Name: team1 ? team1.team_details.name : 'Team not found',
-        team2Name: team2 ? team2.team_details.name : 'Team not found',
-        tournamentName: tournament ? tournament.name : 'Tournament not found',
-        team1Players: team1 ? team1.players : [],
-        team2Players: team2 ? team2.players : []
-      };
+    const matchDetails = matches.map((match) => ({
+      matchId: match._id,
+      date: match.date,
+      team1Id: match.team_1?._id,
+      team2Id: match.team_2?._id,
+      playerStats: match.player_stats,
+      team1Name: match.team_1?.team_details.name || "Team not found",
+      team2Name: match.team_2?.team_details.name || "Team not found",
+      tournamentName: match.tournament_id?.name || "Tournament not found",
+      team1Players: match.team_1?.players || [],
+      team2Players: match.team_2?.players || [],
     }));
 
     res.status(200).json(matchDetails);
   } catch (error) {
-    console.log(error);
-    res.status(400).json({ message: error.message });
+    console.error("Error in getAllMatches:", error);
+    res.status(500).json({ message: "Server error" });
   }
 };
 
-// Get a single match by ID
+// Get a single match by ID (Optimized with combined population)
 const getMatchById = async (req, res) => {
   try {
-    const { id } = req.params;
-
-    const match = await MatchModel.findById(id)
-      .populate({
-        path: 'team_1',
-        model: 'Team', // Ensure this matches your Team model name
-        populate: {
-          path: 'players',
-          model: 'Player', // Populate players within team_1
-          select: 'name jerseyNumber', // Adjust fields as per your Player schema
+    const match = await MatchModel.findById(req.params.id)
+      .populate([
+        {
+          path: "team_1",
+          select: "team_details.name team_details.logo players",
+          populate: { path: "players", select: "name jerseyNumber" },
         },
-      })
-      .populate({
-        path: 'team_2',
-        model: 'Team', // Ensure this matches your Team model name
-        populate: {
-          path: 'players',
-          model: 'Player', // Populate players within team_2
-          select: 'name jerseyNumber', // Adjust fields as per your Player schema
+        {
+          path: "team_2",
+          select: "team_details.name team_details.logo players",
+          populate: { path: "players", select: "name jerseyNumber" },
         },
-      })
-      .populate({
-        path: 'tournament_id',
-        model: 'Tournament', // Ensure this matches your Tournament model name
-        select: 'name startDate endDate teams matches posterImage organizer prizePool location registeringStartDate league',
-      });
+        {
+          path: "tournament_id",
+          select:
+            "name startDate endDate teams matches posterImage organizer prizePool location registeringStartDate league",
+        },
+        {
+          path: "player_stats.player_id",
+          select: "image jerseyNumber name",
+        },
+        {
+          path: "player_stats.team_id",
+          select: "team_details.name",
+        },
+      ])
+      .lean();
 
-    if (!match) {
-      return res.status(404).json({ message: 'Match not found' });
-    }
+    if (!match) return res.status(404).json({ message: "Match not found" });
 
-    res.status(200).json(match);
+    // Calculate scores
+    const team1Score = match.player_stats
+      .filter(
+        (stat) => stat.team_id._id.toString() === match.team_1._id.toString()
+      )
+      .reduce((sum, stat) => sum + stat.points, 0);
+
+    const team2Score = match.player_stats
+      .filter(
+        (stat) => stat.team_id._id.toString() === match.team_2._id.toString()
+      )
+      .reduce((sum, stat) => sum + stat.points, 0);
+
+    // Transform player stats
+    // Modify the player_stats transformation to keep team IDs
+    const transformedStats = match.player_stats.map((stat) => ({
+      ...stat,
+      player_id: {
+        _id: stat.player_id._id,
+        image: stat.player_id.image,
+        jerseyNumber: stat.player_id.jerseyNumber,
+        name: stat.player_id.name,
+      },
+      // Keep team ID instead of name for frontend calculations
+      team_id: stat.team_id._id,
+    }));
+
+    const response = {
+      ...match,
+      team1Score,
+      team2Score,
+      player_stats: transformedStats,
+    };
+
+    res.status(200).json(response);
   } catch (error) {
-    console.log(error);
-    res.status(400).json({ message: error.message });
+    console.error("Error in getMatchById:", error);
+    res.status(500).json({ message: "Server error" });
   }
 };
 
-// Update a match
+// Update match (Optimized with parallel processing and bulk operations)
 const updateMatch = async (req, res) => {
   try {
     const { matchId, team1Players, team2Players } = req.body;
-
-    // 1. Get the match with current stats
     const match = await MatchModel.findById(matchId);
-    if (!match) return res.status(404).json({ message: 'Match not found' });
+    if (!match) return res.status(404).json({ message: "Match not found" });
 
-    // 2. Process players with simple increment/decrement
-    const processTeam = async (players, teamId) => {
-      for (const player of players) {
-        const { playerId, points = 0, assists = 0, rebounds = 0,notplayed } = player;
+    // Create map for quick player stat lookups
+    const statsMap = new Map(
+      match.player_stats.map((stat) => [stat.player_id.toString(), stat])
+    );
 
-        // Update player totals
-        const playerDoc = await PlayerModel.findById(playerId);
-        if (!playerDoc) continue;
+    // Process teams in parallel
+    await Promise.all([
+      processTeam(team1Players, match.team_1, statsMap),
+      processTeam(team2Players, match.team_2, statsMap),
+    ]);
 
-        // Simple increment/decrement for totals
-        playerDoc.total_points += points;
-        playerDoc.total_assists += assists;
-        playerDoc.total_rebounds += rebounds;
+    // Convert map back to array
+    match.player_stats = Array.from(statsMap.values());
+    match.winner =
+      match.team_1_score > match.team_2_score ? match.team_1 : match.team_2;
 
-        // Update match history
-        let history = playerDoc.match_history.find(h => 
-          h.match_id.toString() === matchId
-        );
-        
-        if (history) {
-          history.points_scored += points;
-          history.assists += assists;
-          history.rebounds += rebounds;
-          history.notplayed=notplayed
-        } else {
-          playerDoc.match_history.push({
-            match_id: matchId,
-            tournament_id: match.tournament_id,
-            team_id: teamId,
-            points_scored: points,
-            assists: assists,
-            rebounds: rebounds,
-            notplayed:notplayed
-          });
-        }
-        await playerDoc.save();
-
-        // Update match player stats
-        const matchStat = match.player_stats.find(ps => 
-          ps.player_id.toString() === playerId.toString()
-        );
-        
-        if (matchStat) {
-          // Increment/decrement existing stats
-          matchStat.points += points;
-          matchStat.assists += assists;
-          matchStat.rebounds += rebounds;
-          matchStat.notplayed=notplayed
-        } else {
-          // Create new stats entry
-          match.player_stats.push({
-            player_id: playerId,
-            team_id: teamId,
-            points: points,
-            assists: assists,
-            rebounds: rebounds,
-            notplayed:notplayed
-          });
-        }
-      }
-    };
-
-    // 3. Process both teams
-    await processTeam(team1Players, match.team_1);
-    await processTeam(team2Players, match.team_2);
-    match.winner = match.team_1_score > match.team_2_score ? match.team_1 : match.team_2;
-
-    // 4. Save and return updated match
     await match.save();
-    res.status(200).json({ message: 'Stats updated successfully', match });
-
+    res.status(200).json({ message: "Stats updated successfully", match });
   } catch (error) {
-    console.error('Update error:', error);
-    res.status(500).json({ message: error.message });
+    console.error("Error in updateMatch:", error);
+    res.status(500).json({ message: "Server error" });
   }
 };
 
-// Delete a match by ID
+// Helper function to process team players
+const processTeam = async (players, teamId, statsMap) => {
+  const playerUpdates = players.map(
+    async ({ playerId, points = 0, assists = 0, rebounds = 0, notplayed }) => {
+      const player = await PlayerModel.findById(playerId);
+      if (!player) return;
+
+      // Update player totals
+      player.total_points += points;
+      player.total_assists += assists;
+      player.total_rebounds += rebounds;
+
+      // Update match history
+      const historyIndex = player.match_history.findIndex(
+        (h) => h.match_id.toString() === matchId
+      );
+
+      if (historyIndex > -1) {
+        const history = player.match_history[historyIndex];
+        history.points_scored += points;
+        history.assists += assists;
+        history.rebounds += rebounds;
+        history.notplayed = notplayed;
+      } else {
+        player.match_history.push({
+          match_id: matchId,
+          tournament_id: match.tournament_id,
+          team_id: teamId,
+          points_scored: points,
+          assists,
+          rebounds,
+          notplayed,
+        });
+      }
+
+      // Update match stats
+      const statKey = playerId.toString();
+      const existingStat = statsMap.get(statKey);
+
+      if (existingStat) {
+        existingStat.points += points;
+        existingStat.assists += assists;
+        existingStat.rebounds += rebounds;
+        existingStat.notplayed = notplayed;
+      } else {
+        statsMap.set(statKey, {
+          player_id: playerId,
+          team_id: teamId,
+          points,
+          assists,
+          rebounds,
+          notplayed,
+        });
+      }
+
+      await player.save();
+    }
+  );
+
+  await Promise.all(playerUpdates);
+};
+
+// Delete match (Optimized with early return)
 const deleteMatch = async (req, res) => {
   try {
-    const { id } = req.params;
-    const match = await MatchModel.findByIdAndDelete(id);
-    if (!match) {
-      return res.status(404).json({ message: 'Match not found' });
-    }
+    const match = await MatchModel.findByIdAndDelete(req.params.id);
+    if (!match) return res.status(404).json({ message: "Match not found" });
     res.status(204).send();
   } catch (error) {
-    console.log(error);
-    res.status(400).json({ message: error.message });
+    console.error("Error in deleteMatch:", error);
+    res.status(500).json({ message: "Server error" });
   }
 };
 
@@ -179,7 +228,5 @@ module.exports = {
   getAllMatches,
   getMatchById,
   updateMatch,
-  deleteMatch
+  deleteMatch,
 };
-
-
