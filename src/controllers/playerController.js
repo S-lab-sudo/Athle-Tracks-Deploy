@@ -29,7 +29,7 @@ const getPlayerById = async (req, res) => {
           }
         ]
       })
-      .select('name image jerseyNumber total_points total_assists total_rebounds match_history')
+      .select('name image jerseyNumber total_points total_assists total_rebounds match_history age height weight')
       .lean();
 
     if (!player) return res.status(404).json({ message: "Player not found" });
